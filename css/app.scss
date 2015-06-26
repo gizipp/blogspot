@@ -1,0 +1,161 @@
+---
+# The main .css file
+---
+@charset "utf-8";
+@import "syntax-highlighting";
+
+/*$primary-color: #36465f;*/
+/*$secondary-color: #464646;*/
+/*$error: #de3535;*/
+/*$success: #d5f5d7;*/
+
+/*$max-width: 960px;*/
+
+$font-size: 21px;
+$font-family: "Quicksand",sans-serif;
+/*$font-color: #353535;*/
+
+$scheme-color: black;
+
+/* Social Icons */
+/*$twitter: #78cdf0 !default;
+$facebook: #537bbd !default;
+$instagram: #517fa4 !default;
+$youtube: #d34836 !default;
+$snapchat: #fffc00 !default;
+$pinterest:	#cb2027 !default;
+$google: #dd4b39 !default;
+*/
+
+body {
+  font-family: $font-family;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 10px;
+}
+
+h1 {font-size: 48px;}
+h2 {font-size: 38px;}
+h3 {font-size: 24px;}
+
+.site-header{
+  height: 100px;
+  font-family: $font-family;
+  text-align: center;
+  margin: 25px;
+}
+
+.site-title{
+  font-size: 48px;
+}
+
+a {
+  color: $scheme-color;
+  text-decoration: none;
+}
+
+a:visited {
+  color: parent;
+}
+
+.post {
+  max-width: 710px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+article {
+  margin-top: 40px;
+  p {
+    font-size: $font-size;
+    line-height: 14x;
+    word-spacing: 4px;
+    letter-spacing:-.003em;
+    margin-bottom: 20px;
+  }
+  blockquote {
+    border-left: solid 1px $scheme-color;
+    p, li, ul, ol {
+      font-size: 14px;
+      line-height: 1.1;
+      padding-left: 20px;
+    }
+  }
+}
+
+.block {
+  margin:auto;
+  text-align: left;
+}
+
+footer {
+  text-align: center;
+}
+
+hr {
+  width: 200px;
+  margin: 3em auto;
+  border: none;
+  border-bottom: solid 1px $scheme-color;
+}
+
+.post-title {
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.post-meta {
+  font-size: 12px;
+  text-align: center;
+}
+
+.post-desc {
+  font-size: 16px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.post-tags {
+  font-size: 22px;
+}
+
+li {
+  display: list-item;
+  margin-left: 40px;
+  padding-top: 10px;
+}
+
+ul {
+  list-style: disc;
+  margin-bottom: 20px;
+}
+
+ol {
+  list-style: decimal;
+  margin-bottom: 20px;
+}
+
+pre {
+  margin-bottom: 20px;
+}
+
+.site-front {
+  min-height: 700px;
+}
+
+.home-list {
+  font-size: 16px;
+}
+
+.home-group {
+  padding-bottom: 20px;
+}
+
+.site-decor {
+  padding-top: 16px;
+}
+
+#markdown-toc {
+ background-colorc: b
+}

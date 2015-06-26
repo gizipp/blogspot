@@ -1,0 +1,44 @@
+---
+layout: post
+title: Log v15.6.23
+excerpt: Catatan cacatan Log v15.6.23 untuk diingat di kala tidak ingat sekaligus sengaja tidak ingat agar kembali mengingat.
+category: 'log'
+---
+
+###06:07
+
+Fak!
+
+Akhirnya sukses juga membuat GIBIPP atau GIZIPP berjalan dalam server awan ialah AWS EC2 dalam alat-alat perang :
+
+- Nginx
+- Phusion Passenger
+- ElasticSearch
+- MongoDB
+- Rails
+- Capistrano
+
+Total waktu 1 bulan plus 15 jam sudah termasuk tidur, makan dan belajar. Efektif, sebenarnya cuma 4-5 jam dari awal konfigurasi sampai up.
+
+###06.35
+
+Mindahin beberapa GIZIPP! LOGS ke NULL
+
+- [All In One Wish](/null/all-in-one-wish.html)
+- [Melihat Masa Depan Itu Perlu](/null/melihat-masa-depan-itu-perlu.html)
+
+###06.45
+
+Dus-ngising-mangkat!
+
+###07:21
+
+Start working bos.
+
+###10.18
+
+Mulai nulis pengalaman dikasih kejutan sama AWS
+
+###20.06
+
+WTF sate 25ribu!
