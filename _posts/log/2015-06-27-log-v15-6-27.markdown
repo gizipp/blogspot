@@ -32,3 +32,7 @@ $39.99
 Dan invoce pun datang.
 
 Ngomong-ngomong [kenapa domain .io mahal ya?](http://www.quora.com/Why-are-io-domains-more-expensive-than-com-domains)
+
+### 10.01
+
+Selesai [mengkonfigurasikan domain github pages dengan Amazon Route 53](http://sophiafeng.com/technical/2015/02/12/setting-up-custom-domain-name-with-github-pages-and-amazon-route-53/). Dan kami telah mengudara pada [codevloper.io](http://codevloper.io)
