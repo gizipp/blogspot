@@ -4,16 +4,10 @@
 @charset "utf-8";
 @import "syntax-highlighting";
 
-/*$primary-color: #36465f;*/
-/*$secondary-color: #464646;*/
-/*$error: #de3535;*/
-/*$success: #d5f5d7;*/
-
-/*$max-width: 960px;*/
+$break-small: 320px;
 
 $font-size: 21px;
 $font-family: "Quicksand",sans-serif;
-/*$font-color: #353535;*/
 
 $scheme-color: black;
 
@@ -35,9 +29,26 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px;
 }
 
-h1 {font-size: 48px;}
-h2 {font-size: 38px;}
-h3 {font-size: 24px;}
+h1 {
+  font-size: 48px;
+  @media screen and (max-width: $break-small) {
+    font-size: 20px;
+  }
+}
+
+h2 {
+  font-size: 38px;
+  @media screen and (max-width: $break-small) {
+    font-size: 18px;
+  }
+}
+
+h3 {
+  font-size: 24px;
+  @media screen and (max-width: $break-small) {
+    font-size: 16px;
+  }
+}
 
 .site-header{
   height: 100px;
@@ -48,6 +59,15 @@ h3 {font-size: 24px;}
 
 .site-title{
   font-size: 48px;
+  @media screen and (max-width: $break-small) {
+    font-size: 38px;
+  }
+}
+
+.site-tagline{
+  @media screen and (max-width: $break-small) {
+    font-size: 98%;
+  }
 }
 
 a {
@@ -73,6 +93,10 @@ article {
     word-spacing: 4px;
     letter-spacing:-.003em;
     margin-bottom: 20px;
+    @media screen and (max-width: $break-small) {
+      word-spacing: 1px;
+      font-size: 14px;
+    }
   }
   blockquote {
     border-left: solid 1px $scheme-color;
@@ -80,6 +104,10 @@ article {
       font-size: 14px;
       line-height: 1.1;
       padding-left: 20px;
+      @media screen and (max-width: $break-small) {
+        font-size: 11px;
+        padding-left: 10px;
+      }
     }
   }
 }
@@ -114,10 +142,16 @@ hr {
   font-size: 16px;
   padding-bottom: 10px;
   padding-top: 10px;
+  @media screen and (max-width: $break-small) {
+    font-size: 12px;
+  }
 }
 
 .post-tags {
   font-size: 22px;
+  @media screen and (max-width: $break-small) {
+    font-size: 16px;
+  }
 }
 
 li {
@@ -146,6 +180,9 @@ pre {
 
 .home-list {
   font-size: 16px;
+  @media screen and (max-width: $break-small) {
+    font-size: 14px;
+  }
 }
 
 .home-group {
