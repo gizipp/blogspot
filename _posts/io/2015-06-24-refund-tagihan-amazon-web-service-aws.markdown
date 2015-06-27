@@ -94,3 +94,8 @@ Tanpa pengharapan apa-apa, kecuali karena sebal.
 >
 > David B.
 > Amazon Web Services
+
+
+Dan akhirnya.
+
+![Refund AWS](/assets/post/refund-amazon-web-service-aws.png)
