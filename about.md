@@ -1,16 +1,35 @@
 ---
 layout: page
-title: About
+title: Tentang
 permalink: /about/
 ---
 
-Namaku adalah Gilang (tak jarang dipanggil Gisip gegera x) dan ini adalah catatan cacatanku.
 
-- Pada tahun 2008, aku memulai blog dengan iseng-iseng saja Meninggalkan jejak-jejak kealayan.
-- Pada tahun 2009, masih ngeblog alay di WordPress atau UNSBlog.
-- Pada tahun 2014, aku memutuskan bertemu Ruby.
-- Pada tahun 2015, aku memutuskan menutup blog GIZIPP dan mengubahnya menjadi robot-robotan. Setelahnya blog ini hadir dengan CODE
+Hai!
 
-##Kenapa ngeblog?
+Inilah aku...
+
+![Aku](/assets/site/aku.jpg)
+
+...yang keliatan separo doang,
+
+...yang kacamataan.
+
+*Fak!*-lah
+
+***
+
+##Siapa di sini?
+
+- Diriku seorang manusia --- lebih komputeriawi daripada manusiawi.
+- Tugasku di dunia ---yang diakui manusia lainnya--- : *web developer*.
+- Tidak menerima tugas pembuatan *website* --- kecuali mahal.
+- Lebih menerima tugas : diajak ketemuan dan jalan-jalan sekitaran Jogja.
+
+Lah?
+
+##Ada apa dengan blog ini?
 
 Tidak ada jalan lain untuk memuncratkan segala hal berlebih yang memenuhi pikiranku.
+
+Titik.
