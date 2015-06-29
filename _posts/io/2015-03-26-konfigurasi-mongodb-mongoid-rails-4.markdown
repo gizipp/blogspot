@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Konfigurasi MongoDB dan Mongoid di Rails 4.x"
+shorttitle: "MongoDB+Mongoid di Rails"
 excerpt: "Langkah-langkah setup dan konfigurasi MongoDB dan Mongoid pada Ruby On Rails 4.x"
 category: io
 tags: [ruby, rails, mongodb, mongoid]
@@ -90,3 +91,35 @@ end
 
 - https://gorails.com/blog/rails-4-0-with-mongodb-and-mongoid
 - http://mongoid.org/en/mongoid/v3/querying.html
+
+##Issue
+
+### Mongodb Mongod Tidak Mau Jalan alias FAILED? Cek Log
+
+Sudah menjadi standar untuk liat *log* tentunya. Apapun yang terjadi, jangan panik. Liat *log* dan jalan keluar pasti ada.
+
+Dimana berkas log tersebut?
+
+Biasanya dan seringnya ada pada `/var/log/mongod.log` secara *default*
+
+Jika tidak tau, cek di file konfigurasi semcam `/etc/mongod.conf`
+
+### ERROR: Insufficient free space for journal files
+
+Jika mongod tidak mau jalan karena error tersebut
+
+>ERROR: Insufficient free space for journal files
+>Please make at least 422MB available in /data/journal or use --smallfiles
+
+Dapat kamu gedein volumenya. Atau jika tidak mau, silahkan lakukan --smallfiles yang intinya pada mongod.conf tambahkan
+
+    quota=true
+    smallfiles=true
+
+Lalu start server
+
+### Error mongod
+
+Jika tidak mau jalan karena *mongod.lock*
+
+Cukup masuk dan hapus file *lock* ke e.g `/var/lib/mongod.lock`

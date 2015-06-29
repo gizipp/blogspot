@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Menambah Foreign Key/References Dengan File Migrasi"
+shorttitle: "Foreign Key/References Pada Rails"
 excerpt: "Menambah foreign key atau references dengan file migrasi pada Rails 4.x"
 category: io
 tags: [ruby, rails]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mengapa Ngeblog Menggunakan Jekyll?"
+shorttitle: "Ngeblog Pakai Jekyll?"
 modified:
 category: io
 excerpt: "Alasan mengapa diriku dan mungkin dirimu berpindah ke Jekyll."

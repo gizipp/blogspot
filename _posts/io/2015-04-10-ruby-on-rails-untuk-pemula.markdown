@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ruby On Rails Untuk Pemula"
+title: "Rails Untuk Pemula"
 excerpt: "Langkah-langkah memulai belajar dan konfigurasi awal Ruby On Rails untuk pemula."
 category: io
 tags: [ruby, rails]

@@ -1,0 +1,24 @@
+---
+layout: post
+title: Log v15.6.28
+excerpt: Catatan cacatan Log v15.6.28 untuk diingat di kala tidak ingat sekaligus sengaja tidak ingat agar kembali mengingat.
+category: 'log'
+---
+
+### Sehabis Sahur!
+
+Sehabis sahur, subuhan lantas cari-cari info sidang tilang. Entah apa strategiku. Namun terbelalakkan oleh ngecek server GIBIPP entah ,ati. Mongodb *modhar* tanpa apa-apa petunjuk apapun. Ternyata karena, *journal* mongod membutuhkan 3 GB alias *error* [Insufficient free space for journal files](https://www.google.co.id/search?q=Insufficient+free+space+for+journal+files)
+
+### 06.30an
+
+Server menyala dalam solusi --smalfiles mongod
+
+### 06.55
+
+Ganti GIBIPP menjadi GIZIPP karena GIBIPP sudah *reserved*.
+
+![GIZIPP selalu tanah air beta](/assets/post/gizipp-selalu-tanah-air-beta.png)
+
+Ialah GIZIPP 'selalu tanah air beta'
+
+Huh?
