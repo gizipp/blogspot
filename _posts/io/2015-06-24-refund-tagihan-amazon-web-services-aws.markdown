@@ -1,31 +1,71 @@
 ---
 layout: post
-title: "Pengalaman Refund Tagihan Amazon Web Service (AWS)"
+title: "Pengalaman Refund Tagihan Amazon Web Services (AWS)"
 shorttitle: "Pengalaman Refund AWS"
 category: io
 excerpt: "Sharing pengalaman open case dan refund tagihan amazon web service free usage tier yang ngagetin membludak."
 tags: [sharing, ngoprek, aws]
 ---
 
-Berbekal kekerenan keilmuan [DevOps](https://en.wikipedia.org/wiki/DevOps) yang semakin ramai, diriku tiba-tiba tertarik untuk mencoba-coba Amazon Web Service (AWS).
+Beberapa waktu kemarin, diriku tiba-tiba tertarik untuk mencoba-coba [Amazon Web Services (AWS)](http://aws.amazon.com/free/){:target="_blank"}.
 
-Apalagi dengan *free usage tier* alias gratis dalam waktu tertentu dan batas tertentu. Dan kebetulan juga diriku iseng ingin *deploy* sesuatu, maka langsunglah aku *apply* kartu kredit.
+![Amazon Web Service Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/640px-AmazonWebservices_Logo.svg.png)
 
-Lho?
+##Apa Itu Amazon Web Services?
 
-Iya. Untuk mengaktifkan akun AWS, kamu membutuhkan terhubung dengan sebuah Kartu Kredit.
+Amazon Web Service atau lebih sering disebut AWS adalah layanan-layanan dan infrastruktur *cluod coumputing* (red: komputasi awan) yang dimana mereka saling terintegrasi dan kemudahan kostumisasi.
 
-Setelah menunggu satu bulan, akhirnya Kartu Kredit ditangan dan siap dipakai.
+Ya gitu deh.
+
+Baca aja di [sini pengenalan AWS](http://www.cloudindonesia.or.id/pengenalan-amazon-web-services.html){:target="_blank"}.
+
+Nah, apalagi dengan adanya *free usage tier*, tanpa ragu-ragu diriku langsung *apply credit card* dan bersegera mengaktifkan promo gratisan satu tahun ini.
 
 ***
 
-Aku aktifkan dan verifikasi aku AWS-ku. Lalu langsung hajar!
+Dan setelah menunggu sekitar satu bulan, akhirnya CC telah di tangan dan siap dipakai. Langsung aku aktifkan, verifikasi akun, dan tanpa babibu langsung hajar!
 
-Aku coba bikin instance EC2, lalu isang bikin volume, lalu kucoba RDS, lalu kucoba DynamoDB, lalu kucoba ElasticBeanstalk, lalu S3, lalu masih banyak lagi. Yang jelas keasikan. Secara gambaran besar maupun mendetail, boleh dikatakan sangat keren.
+Kucoba bikin *instance* EC2, plus bikin volume EBS, lalu kucoba RDS, lalu kucoba DynamoDB, lalu kucoba ElasticBeanstalk, lalu S3... lalu aku ikut tutorial ini itu.. lalu masih banyak lagi.
 
-##Tagihan Yang Bikin Kaget!
+Keasikan? Iya!
 
-Tanpa hujan, tanpa mendung, tiba-tiba menggelegar begitu saja. Menatap bagian *bill* dan *invoice*, aku cuma bisa melongo dengan digit yang tertera disitu. Ialah 71.46 dollar!
+Dan boleh dibilang AWS ini lebih dari cukup memuaskan, kecuali...
+
+...
+
+...
+
+...
+
+bagian tagihan yang tiba-tiba membludak.
+
+Lho, katanya gratis?
+
+***
+
+##Tagihan Bikin Kaget!
+
+Diriku cuma bisa melongo ketika datang tagihan yang tiba-tiba 72,93 dollar di *bills* AWS dan sekitar 900ribuan di tagihan kartu kredit.
+
+Fak!
+
+Iya, hampir sejuta, bulat!
+
+Usut-usut punya usut, ini adalah kesalahanku yang <del>tidak</del> sengaja tidak membaca batasan penggunaan ini. Ialah gratis dalam waktu tertentu dan batas penggunaan tertentu.
+
+Batas penggunaan inilah yang kurang aku pahami dan sengaja tidak aku pahami di awal. Yang utamanya, batasan itu adalah sekitaran :
+
+- 30 Gb Amazon EBS + 2,000,000 I/Os
+- 5 Gb Amazon S3
+- 50 Data Transfer Amazon CloudFront
+
+Dan sebagainya silahkan cek di [http://aws.amazon.com/free/](http://aws.amazon.com/free/){:target="_blank"} semua produk (ternyata!!) dijelaskan di situ.
+
+Namun karena pada dasarnya aku terlalu khilaf serta keasikan coba-coba, ya mau gimana lagi. Tagihan sudah menjadi bubur. :D
+
+***
+
+Tanpa hujan, tanpa mendung, tiba-tiba menggelegar begitu saja. Menatap bagian *bill* dan *invoice*, aku cuma bisa melongo dengan digit yang tertera disitu. Ialah 72,93 dollar!
 
 >
 > Hi AWS and teams,
@@ -99,3 +139,15 @@ Tanpa pengharapan apa-apa, kecuali karena sebal.
 Dan akhirnya.
 
 ![Refund AWS](/assets/post/refund-amazon-web-service-aws.png)
+
+Refund penuh didapatkan olehku. Siapa yang menduga? THR tetep jalan. :D
+
+###Kesimpulan
+
+Jika dirimu merasakan kurang *fair* atas sesuatu yang terjadi padamu, (1) coba kau negosiasikan nasibmu dahulu, (2) kau perjuanganlah dirimu dahulu, (3) janganlah pasrah langsung menerimanya tanpa usaha dan upaya.
+
+Karena sesungguhnya, tak akan pernah ada yang berubah nasib dan dirimu, jikalau tanpa sedikit upaya dari dirimu sendiri untuk mengubahnya.
+
+Fak!
+
+Kenapa tiba-tiba jadi bijak begini?
