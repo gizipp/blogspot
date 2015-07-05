@@ -27,6 +27,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px;
+  font-weight: normal;
 }
 
 h1 {
@@ -90,13 +91,19 @@ article {
   margin-top: 40px;
   p {
     font-size: $font-size;
-    line-height: 14x;
-    word-spacing: 4px;
+    line-height: 32px;
     letter-spacing:-.003em;
     margin-bottom: 20px;
     @media screen and (max-width: $break-small) {
       word-spacing: 1px;
       font-size: 14px;
+    }
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding-top: 5px;
+      padding-bottom: 15px;
     }
   }
   code {

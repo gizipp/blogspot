@@ -22,3 +22,5 @@ email: "hello@codevloper.io" # This is my real email address. Please don't email
 exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
 
 permalink:   /:categories/:title.html
+
+markdown: kramdown
