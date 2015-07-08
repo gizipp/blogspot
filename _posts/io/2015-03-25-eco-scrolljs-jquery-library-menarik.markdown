@@ -2,7 +2,7 @@
 layout: post
 title: "Eco Scroll.js : jQuery Library Menarik!"
 shorttitle: "Eco Scrool.js : Menarik"
-excerpt: "jQuery library menarik dengan kemungkinan tanpa batas untuk diimplementasikan."
+desc: "jQuery library menarik dengan kemungkinan tanpa batas untuk diimplementasikan."
 category: io
 tags: [js, ui, ux]
 ---

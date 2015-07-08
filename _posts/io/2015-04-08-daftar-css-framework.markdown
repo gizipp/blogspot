@@ -2,7 +2,7 @@
 layout: post
 title: "Daftar CSS Framework"
 shorttitle: "Daftar CSS Framework"
-excerpt: "Daftar beberapa CSS Framework baru, lama atau populer baru-baru ini."
+desc: "Daftar beberapa CSS Framework baru, lama atau populer baru-baru ini."
 category: io
 tags: [web, css]
 ---

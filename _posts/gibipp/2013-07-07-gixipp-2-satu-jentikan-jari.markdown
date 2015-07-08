@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GIXIPP #2 : Satu Jentikan Jari'
-excerpt:
+desc:
 category: gibipp
 tags: [gixipp, fiksi, ngasal]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Install ElasticSearch dan Konfigurasi Pada Rails"
 title: "ElasticSearch Pada Rails"
-excerpt: "Langkah-langkah menginstall ElasticSearch dan melakukan konfigurasi pada Rails"
+desc: "Langkah-langkah menginstall ElasticSearch dan melakukan konfigurasi pada Rails"
 category: io
 tags: [ruby, rails, elasticsearch]
 ---

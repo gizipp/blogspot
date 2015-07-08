@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Log v15.6.26
-excerpt: Catatan cacatan Log v15.6.26 untuk diingat di kala tidak ingat sekaligus sengaja tidak ingat agar kembali mengingat.
+desc: Catatan cacatan Log v15.6.26 untuk diingat di kala tidak ingat sekaligus sengaja tidak ingat agar kembali mengingat.
 category: 'log'
 ---
 

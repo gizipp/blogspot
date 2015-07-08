@@ -1,7 +1,7 @@
 ---
 layout: post
 title: STPN Wannabe
-excerpt: Postingan alay awal-awal pertama ngeblog episode 0 agar semua tahu kita semua pernah alay.
+desc: Postingan alay awal-awal pertama ngeblog episode 0 agar semua tahu kita semua pernah alay.
 category: 'null'
 tags: [jurnal, goblog]
 ---

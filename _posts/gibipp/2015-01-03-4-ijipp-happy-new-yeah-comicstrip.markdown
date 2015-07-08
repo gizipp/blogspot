@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#4 IJIPP &ldquo;Happy New Yeah!&rdquo; Comicstrip!"
-excerpt:  Si ijipp setelah tahun baruan, atau lebih tepatnya malam minggu pertama di tahun 2015.
+desc:  Si ijipp setelah tahun baruan, atau lebih tepatnya malam minggu pertama di tahun 2015.
 category: gibipp
 tags: [comicstrip, ijipp]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Konfigurasi MongoDB dan Mongoid di Rails 4.x"
 shorttitle: "MongoDB+Mongoid di Rails"
-excerpt: "Langkah-langkah setup dan konfigurasi MongoDB dan Mongoid pada Ruby On Rails 4.x"
+desc: "Langkah-langkah setup dan konfigurasi MongoDB dan Mongoid pada Ruby On Rails 4.x"
 category: io
 tags: [ruby, rails, mongodb, mongoid]
 ---

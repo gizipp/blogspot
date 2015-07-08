@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kosong : Pecandu Kamu"
-excerpt: "Semacam diary, maksud kami, diare... pecandu kamu."
+desc: "Semacam diary, maksud kami, diare... pecandu kamu."
 category: gibipp
 tags: [Diare Pencandu Kamu, Fiksi, Mbeling]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rumah Masa Kecil
-excerpt :  Cerita tentang rumah masa kecilku yang seingatku lupa-upa ingat.
+desc :  Cerita tentang rumah masa kecilku yang seingatku lupa-upa ingat.
 category: 'null'
 tags: [jurnal, memori]
 ---

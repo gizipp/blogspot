@@ -2,7 +2,7 @@
 layout: post
 title: "Lebih Produktif Dengan Multi Terminal TMUX"
 shorttitle: "Produktif Dengan TMUX"
-excerpt: "Cara Install TMUX di Linux dan tips lebih produktif dengan multi terminal."
+desc: "Cara Install TMUX di Linux dan tips lebih produktif dengan multi terminal."
 category: io
 tags: [linux]
 ---

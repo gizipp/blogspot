@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#3.14 IJIPP &ldquo;Static Var Day!&rdquo; Comicstrip!"
-excerpt:  "Kegiatan si IJIPP sehari-hari, nampaknya."
+desc:  "Kegiatan si IJIPP sehari-hari, nampaknya."
 category: gibipp
 tags: [comicstrip, ijipp]
 ---

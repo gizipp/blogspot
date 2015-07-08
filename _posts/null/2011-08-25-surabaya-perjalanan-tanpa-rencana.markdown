@@ -2,7 +2,7 @@
 layout: post
 title: Surabaya, Perjalanan Tanpa Rencana
 shorttitle: Surabaya, Tanpa Rencana
-excerpt: Suatu hari, jalan-jalan ke Surabaya dengan rencana untuk tersesat. Atau tanpa rencana?
+desc: Suatu hari, jalan-jalan ke Surabaya dengan rencana untuk tersesat. Atau tanpa rencana?
 category: 'null'
 tags: [jurnal, jalan-jalan]
 ---

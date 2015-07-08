@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GIXIPP : Deprecated!"
-excerpt: "Suatu hari, aku merelakan satu demi satu benih dan membiarkannya untuk mengakar. Semoga."
+desc: "Suatu hari, aku merelakan satu demi satu benih dan membiarkannya untuk mengakar. Semoga."
 category: gibipp
 tags: [gixipp, fiksi]
 ---

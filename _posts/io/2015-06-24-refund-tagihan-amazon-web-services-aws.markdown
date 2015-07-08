@@ -3,7 +3,7 @@ layout: post
 title: "Pengalaman Refund Tagihan Amazon Web Services (AWS)"
 shorttitle: "Pengalaman Refund AWS"
 category: io
-excerpt: "Sharing pengalaman open case dan refund tagihan amazon web service free usage tier yang ngagetin membludak."
+desc: "Sharing pengalaman open case dan refund tagihan amazon web service free usage tier yang ngagetin membludak."
 tags: [sharing, ngoprek, aws]
 ---
 

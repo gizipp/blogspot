@@ -4,7 +4,7 @@ title: "Mengapa Ngeblog Menggunakan Jekyll?"
 shorttitle: "Ngeblog Pakai Jekyll?"
 modified:
 category: io
-excerpt: "Alasan mengapa diriku dan mungkin dirimu berpindah ke Jekyll."
+desc: "Alasan mengapa diriku dan mungkin dirimu berpindah ke Jekyll."
 tags: [blogging, jekyll, opini]
 date: 2015-05-24T12:15:40+07:00
 ---

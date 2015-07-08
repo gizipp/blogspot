@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Empat : Diamku Bergerak "
-excerpt:  "Hai kamu, dan penyebab canduku. Diamku bergerak, dalam diam-diam."
+desc:  "Hai kamu, dan penyebab canduku. Diamku bergerak, dalam diam-diam."
 category: gibipp
 tags: [Diare Pencandu Kamu, Fiksi, Mbeling]
 

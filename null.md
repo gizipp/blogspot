@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: 'Null'
+title: '/null'
+desc: "Sebuah arsip null, ialah kumpulan tempat mengaduh, menuduh, mengeluh atau sedikit banyak sebaliknya dari yang menjadi kebenaran."
 permalink: /null/
 ---
 <section class="site-front block">

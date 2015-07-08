@@ -3,7 +3,7 @@ layout: post
 title: "WTF MySQL Query : Find & Delete Duplicates"
 shorttitle: "WTF Mysql Query"
 category: io
-excerpt: "Catatan MySQL Query untuk mencari dan menghapus duplikasi."
+desc: "Catatan MySQL Query untuk mencari dan menghapus duplikasi."
 tags: [ngoding, mysql, catatan]
 ---
 

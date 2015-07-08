@@ -2,14 +2,14 @@
 layout: default
 ---
 <!-- fulltitle: This overrides the default page title, which is "{{page.tite}} | {{site.title}}" -->
-<!-- excerpt: If this isn't set, it'll pull your {{site.tagline}} for meta description-->
+<!-- desc: If this isn't set, it'll pull your {{site.tagline}} for meta description-->
 <section class="site-front block">
   <div class="container">
     <div class="grid_4 home-group">
       <h2>
         <a href="/root">/root</a>
       </h2>
-      {% for post in site.posts limit:20 %}
+      {% for post in site.posts limit:25 %}
         <h3 class="home-list">
           {% if post.category != "log" %}
             &nbsp;&bull;&nbsp;
@@ -60,6 +60,18 @@ layout: default
         <a href="/log">/log</a>
       </h2>
       {% for post in site.categories.log limit:5 %}
+        <h3 class="home-list">
+          &nbsp;&bull;&nbsp;
+          <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
+        </h3>
+      {% endfor %}
+    </div>
+
+    <div class="grid_4 home-group">
+      <h2>
+        <a href="/junkies">/junkies</a>
+      </h2>
+      {% for post in site.categories.junkies limit:5 %}
         <h3 class="home-list">
           &nbsp;&bull;&nbsp;
           <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
