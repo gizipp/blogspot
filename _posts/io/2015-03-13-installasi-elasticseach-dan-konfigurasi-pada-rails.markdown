@@ -12,8 +12,6 @@ ElasticSearch adalah penemuan keren di era big data. Atau sebaliknya? Big data d
 Langkah-langkahnya adalah sesuai judulnya, yaitu
 
 
-
-
 ##Install ElasticSearch
 
 Untuk install ES [disini](http://www.elastic.co/guide/en/elasticsearch/guide/current/_installing_elasticsearch.html) yang intinya perintah beginian saja. Versinya jangan lupa diganti.

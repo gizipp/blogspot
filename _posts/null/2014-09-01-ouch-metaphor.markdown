@@ -3,7 +3,7 @@ layout: post
 title: OUCH Metaphor
 excerpt :  Kupikir aku punya kabar gembira untuk kita semua yang masih mengaduh.
 category: 'null'
-tags: [jurnal, opini]
+tags: [jurnal, opini, curcol]
 ---
 
 ![ouch](http://gizipp.com/wp-content/uploads/ouch-metaphor.png)

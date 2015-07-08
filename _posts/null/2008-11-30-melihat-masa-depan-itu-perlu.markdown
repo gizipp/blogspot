@@ -3,7 +3,7 @@ layout: post
 title: Melihat Masa Depan Itu Perlu
 excerpt: Postingan alay awal-awal pertama ngeblog episode 0 agar semua tahu kita semua pernah alay.
 category: 'null'
-tags: [jurnal, goblog]
+tags: [jurnal, goblog, curcol]
 ---
 
 Seorang temanku, cewek, anak ekonomi, menyatakan sesuatu yang agak mengagetkan pandanganku selama ini. dia punya mimpi untuk menjadi wirausahawan, yang mendirikan perusahaan, yang membuka lapangan pekerjaan, yang punya haegemoni internasional, yang berhadapan dengan unilever, yang berjalan dengan syariah, yang bermanfaat tuk kemaslahatan semua makhluk. dia bertanya pada dirinya sendiri, apakah mungkin seorang seperti dirinya bisa mewujudkannya, dia berkata pada dirinya sendiri bahwa tidak ada mimpi yang tak mungkin walaupun mimpi memang impossible thing to do...

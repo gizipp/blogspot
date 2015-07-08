@@ -3,7 +3,7 @@ layout: post
 title: Rumah Masa Kecil
 excerpt :  Cerita tentang rumah masa kecilku yang seingatku lupa-upa ingat.
 category: 'null'
-tags: [jurnal]
+tags: [jurnal, memori]
 ---
 
 Di depan rumahku sebenarnya ada satu-satunya rumah manusia, namun sayang itu yang cukup jauh untuk aku versi mini untuk bisa sering-sering main dan berselancar ke sana.
