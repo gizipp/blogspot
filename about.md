@@ -33,3 +33,11 @@ Lah?
 Tidak ada jalan lain untuk memuncratkan segala hal berlebih yang memenuhi pikiranku.
 
 Titik.
+
+##Hubungi aku?
+
+Menuju saja :
+
+**codevloper.io[at]gmail.com**
+
+Atau bisa juga didapati ngoceh di [Twitter](http://twitter.com/codevloper).
