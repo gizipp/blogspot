@@ -11,7 +11,7 @@ Beberapa waktu kemarin, diriku tiba-tiba tertarik untuk mencoba-coba [Amazon Web
 
 ![Amazon Web Service Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/640px-AmazonWebservices_Logo.svg.png)
 
-##Apa Itu Amazon Web Services?
+##Apa itu amazon web services?
 
 Amazon Web Service atau lebih sering disebut AWS adalah layanan-layanan dan infrastruktur *cluod coumputing* (red: komputasi awan) yang dimana mereka saling terintegrasi dan kemudahan kostumisasi.
 
@@ -43,7 +43,7 @@ Lho, katanya gratis?
 
 ***
 
-##Tagihan Bikin Kaget!
+##Tagihan bikin kaget!
 
 Diriku cuma bisa melongo ketika datang tagihan yang tiba-tiba 72,93 dollar di *bills* AWS dan sekitar 900ribuan di tagihan kartu kredit.
 
