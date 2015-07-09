@@ -6,7 +6,7 @@
 
 $break-small: 320px;
 
-$font-size: 21px;
+$font-size: 19px;
 $font-family: "Quicksand",sans-serif;
 
 $scheme-color: black;
@@ -89,9 +89,13 @@ a:visited {
 
 article {
   margin-top: 40px;
+  h1, h2, h3 {
+    margin-top: 50px;
+    margin-bottom: 25px;
+  }
   p {
     font-size: $font-size;
-    line-height: 32px;
+    line-height: 30px;
     letter-spacing:-.003em;
     margin-bottom: 20px;
     @media screen and (max-width: $break-small) {
