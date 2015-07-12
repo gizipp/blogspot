@@ -311,7 +311,35 @@ Licensed under GPL and MIT
 
 	/* Container */
 
-	.container { width:300px;}
+	.container { width:100%;}
+
+	/* Global */
+
+	.container .grid_1,
+	.container .grid_2,
+	.container .grid_3,
+	.container .grid_4,
+	.container .grid_5,
+	.container .grid_6,
+	.container .grid_7,
+	.container .grid_8,
+	.container .grid_9,
+	.container .grid_10,
+	.container .grid_11,
+	.container .grid_12	{
+		width:360px;
+	}
+}
+
+/* =============================================================================
+   Less than 321px
+   ========================================================================== */
+
+@media only screen and (max-width: 320px) {
+
+/* Container */
+
+	.container { width:100%;}
 
 	/* Global */
 
@@ -328,33 +356,5 @@ Licensed under GPL and MIT
 	.container .grid_11,
 	.container .grid_12	{
 		width:260px;
-	}
-}
-
-/* =============================================================================
-   Less than 321px
-   ========================================================================== */
-
-@media only screen and (max-width: 320px) {
-
-/* Container */
-
-	.container { width:270px;}
-
-	/* Global */
-
-	.container .grid_1,
-	.container .grid_2,
-	.container .grid_3,
-	.container .grid_4,
-	.container .grid_5,
-	.container .grid_6,
-	.container .grid_7,
-	.container .grid_8,
-	.container .grid_9,
-	.container .grid_10,
-	.container .grid_11,
-	.container .grid_12	{
-		width:220px;
 	}
 }
