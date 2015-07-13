@@ -1,0 +1,11 @@
+---
+layout: post
+title: Log v15.6.13
+desc: Catatan cacatan Log v15.6.13 untuk diingat di kala tidak ingat sekaligus sengaja tidak ingat agar kembali mengingat.
+category: 'log'
+---
+
+### Siang
+
+{: .pull-center .image}
+![nikahan BH](/assets/post/nikahan-bh/IMG-20150613-WA0003.jpg)*---Nikahan BH (red---bukan benda sebenarnya, inisial salah satu tersangka/pelaku)*

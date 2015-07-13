@@ -5,7 +5,7 @@ desc: Catatan cacatan Log v15.7.8 untuk diingat di kala tidak ingat sekaligus se
 category: 'log'
 ---
 
-### 01.25
+### Suasana, Pukul 01.25
 
 Aku menyegerakan dan menyelesaikan Yaelah, dan [menulislah aku dalam suasana](/null/aku-tidak-gaul.html).
 
