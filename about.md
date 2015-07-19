@@ -21,12 +21,11 @@ Inilah aku...
 
 ##Siapa di sini?
 
-- Diriku seorang manusia --- lebih komputeriawi daripada manusiawi.
-- Tugasku di dunia ---yang diakui manusia lainnya--- : *web developer*.
-- Tidak menerima tugas pembuatan *website* --- kecuali mahal.
-- Lebih menerima tugas : diajak ketemuan dan jalan-jalan sekitaran Jogja.
+Manusia komputeriawi, menulis bahasa manusia, untuk manusia, agar manusiawi.
 
-Lah?
+Tugasku lainnya di dunia ---yang diakui manusia lainnya--- : *web developer*, kebanyakan berbahasa ruby.
+
+Ah, tak penting juga siapa diriku, karena semesta lebih luas dari setitik aku.
 
 ##Ada apa dengan blog ini?
 
