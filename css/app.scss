@@ -76,6 +76,9 @@ h3 {
 }
 
 .site-tagline{
+  a {
+    color: orangered;
+  }
   @media screen and (max-width: $break-medium) {
     font-size: 62%;
   }
@@ -141,6 +144,9 @@ article {
   pre {
     padding: 13px;
     border: solid 1px black;
+  }
+  a {
+    color: orangered;
   }
 }
 
@@ -270,4 +276,7 @@ pre {
 footer {
   font-size: 11px;
   line-height: 17px;
+  a {
+    color: orangered;
+  }
 }
