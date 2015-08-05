@@ -25,7 +25,7 @@ Lantas?
 
 Maka kubunuh ia, entah mati, atau tidak. Dalam usaha percobaan, ala kadarnya.
 
-Semeoga setidaknya sekedar pingsan, atau sekarat.
+Semoga setidaknya sekedar pingsan, atau sekarat.
 
 ***
 
@@ -40,6 +40,8 @@ Aku khilaf.
 Aku lupa.
 
 Bahwa, manusia ialah tinggi. Setinggi-tingginya kerendahan paling rendah, merendahkan!
+
+Ada rendah, ada tinggi.
 
 Dengan disertai kelupaan disengaja, bahwa semua manusia menginjak bumi, dengan bumi penuh kerelaan untuk diinjak, dan manusia pun malah memilih menginjak manusia lainnya, seperti kebiasaannya menginjak kecoa.
 
@@ -57,9 +59,11 @@ Dan manusia lainnya yang diinjaknya, dengan penuh kerelaan diinjak-injak, mendia
 
 Lupa, dan sengaja melupakan.
 
-Hah? Tak percaya?
+Hah?
 
-Tertawa sajalah tak apa, selera humorku memang luar binasa.
+Tak percaya?
+
+Tertawa sajalah tak apa, selera humorku memang luar binasa, jika kau tak percaya padaku.
 
 ***
 
@@ -69,29 +73,33 @@ Itu tak akan terjadi dua kali, usaha pembunuhan tersebut!
 
 Semoga.
 
-Sungguh!
+Sungguh.
 
 Jangan khawatir.
 
 Mengapa?
 
-Aku akan kembali.
+Karena, aku akan kembali.
 
-Jangan bilang-bilang, ini rahasia.
-
-Aku makhluk Mars.
+Jangan bilang-bilang, ini rahasia : "Aku makhluk Mars!"
 
 Aku menyembunyikan diriku, mencoba tak terlihat.
 
 Aku pengamat, fenomena alam injak menginjak semesta bumi.
 
-Aku kembali, pada makluk mars berkedok manusia bumi, yang tidak peduli, dan tetek bengeknya.
+Aku kembali, pada makluk Mars berkedok manusia bumi, yang tidak peduli, dan tetek bengeknya.
+
+Aku seharusnya tidak peduli, diinjak, menginjak, melihatnya.
 
 Dan, ijinkan aku kembali ke duniaku.
 
 Selamat tinggal, diriku yang lainnya.
 
-Semoga besok, dan doakan saja, aku kembali khilaf, dan kembali kembali lagi ya, sok menjadi dan peduli menusia bumi.
+***
+
+Namun, semoga besok, dan doakan saja, aku kembali khilaf, dan kembali, kembali, kembali dan kembali lagi, sok menjadi dan peduli menusia bumi, biarin.
+
+Karena manusia bumi, sudah tidak ada yang manusia bumi lagi, hanya ada manusia bumi berkedok makhluk mars, sepengamatanku hingga detik ini.
 
 ***
 
