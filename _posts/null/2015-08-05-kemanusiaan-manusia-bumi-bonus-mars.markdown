@@ -87,11 +87,11 @@ Aku pengamat, fenomena alam injak menginjak semesta bumi.
 
 Aku kembali, pada makluk mars berkedok manusia bumi, yang tidak peduli, dan tetek bengeknya.
 
-Dan, ijinkan aku kembali ke dunia ku.
+Dan, ijinkan aku kembali ke duniaku.
 
 Selamat tinggal, diriku yang lainnya.
 
-Semoga besok, khilaf, dan kembali kembali lagi ya.
+Semoga besok, dan doakan saja, aku kembali khilaf, dan kembali kembali lagi ya, sok menjadi dan peduli menusia bumi.
 
 ***
 
