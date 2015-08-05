@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Daftar Film Korea (KMovies) Jadul - Terbaru Yang Pernah Aku Tonton"
-shorttitle: "Daftar Film Korea"
+shorttitle: "Film Korea"
 desc: "Sekedar daftar film korean (kmovies) yang pernah diriku tonton, dari yang jadul-jadul sampai yang terbaru baru-baru saja."
 category: junkies
 tags: [sharing, opini, korean]
