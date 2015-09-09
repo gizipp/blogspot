@@ -1,19 +1,19 @@
 # Site settings
-title: codevloper
+title: GIZIPP
 tagline: "cacatan interaksi manusia dan/dengan/atau/tanpa komputer"
-url: "http://codevloper.io" # The base hostname & protocol for your site. Use it if you need absolute URL's
+url: "http://blogspot.gizipp.com" # The base hostname & protocol for your site. Use it if you need absolute URL's
 
 # Social
 socialimg: /assets/site/social.jpg # be sure to change this image
-facebook: codevloper
-twitter: codevloper
-github: codevloper
-googleplus: codevloper
-instagram: codevloper
+facebook: gizipp
+twitter: gizipp
+github: gizipp
+googleplus: gizipp
+instagram: gizipp
 
 # Contact
 phone: "916-276-1044" # This is my real number. You should text me.
-email: "hello@codevloper.io" # This is my real email address. Please don't email me.
+email: "gmail@gizipp.com" # This is my real email address. Please don't email me.
 
 # Use this for production
 #sass:
