@@ -1,6 +1,8 @@
-# CODEVLOPER.IO
+BLOGSPOT.GIZIPP.COM - TUKANG KETIK
 
-Codebase of personal blog codevloper.io
+# About
+
+Codebase of personal blog blogspot.gizipp.com
 
 
 ## Styling
