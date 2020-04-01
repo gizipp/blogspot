@@ -88,6 +88,8 @@ Nanti ya
 
 Project Management Software
 
+{% include ads.html %}
+
 - Todo list module
 - Task list module
 - Send mail when task assigned and add asynchronous sidekiq on mail job
@@ -181,6 +183,8 @@ Breack and lunch.
 - Setup 'getting started Heroku apps' (ruby)
 
 Project Management Software
+
+{% include ads.html %}
 
 - Fixing user can't assign himself as contributor
 - Welcome email testing and changes

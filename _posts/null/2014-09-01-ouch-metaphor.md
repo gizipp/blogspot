@@ -6,8 +6,6 @@ category: 'null'
 tags: [jurnal, opini, curcol]
 ---
 
-![ouch](http://gizipp.com/wp-content/uploads/ouch-metaphor.png)
-
 Suatu hari aku makan makanan yang kusuka.
 
 "OOOOOUUUCH!!!" Dan lidahku celaka.

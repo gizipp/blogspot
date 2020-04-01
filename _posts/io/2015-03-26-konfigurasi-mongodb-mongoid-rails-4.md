@@ -9,7 +9,7 @@ tags: [ruby, rails, mongodb, mongoid]
 
 Di sini memakai Rails 4.2 namun seharusnya juga bisa untuk Rails 4.x
 
-##Installasi mongodb
+## Installasi mongodb
 
     sudo apt-key adv --keyserver keyserver.ubuntu.com --recv 7F0CEB10
     sudo echo "deb http://downloads-distro.mongodb.org/repo/ubuntu-upstart dist 10gen" | tee -a /etc/apt/sources.list.d/10gen.list
@@ -18,15 +18,15 @@ Di sini memakai Rails 4.2 namun seharusnya juga bisa untuk Rails 4.x
 
 Test ketik ```mongo``` kalo sukses keluar *mongo shell*
 
-##Setup Rails
+## Setup Rails
 
-###Kalau new project
+### Kalau new project
 
     rails new myapp -O
 
     rails g mongoid:config
 
-###Kalau existing project
+### Kalau existing project
 
 Komen sqlite di Gemfile, tambah
 
@@ -56,7 +56,7 @@ Kalau sukses, test create model
 
     rails g model Post title:string body:string published:boolean
 
-#Contoh Model
+# Contoh Model
 
 {% highlight ruby %}
 class Post
@@ -87,12 +87,12 @@ class Post
 end
 {% endhighlight %}
 
-##Links
+## Links
 
 - https://gorails.com/blog/rails-4-0-with-mongodb-and-mongoid
 - http://mongoid.org/en/mongoid/v3/querying.html
 
-##Issue
+## Issue
 
 ### Mongodb Mongod Tidak Mau Jalan alias FAILED? Cek Log
 
@@ -105,6 +105,8 @@ Biasanya dan seringnya ada pada `/var/log/mongod.log` secara *default*
 Jika tidak tau, cek di file konfigurasi semcam `/etc/mongod.conf`
 
 ### ERROR: Insufficient free space for journal files
+
+{% include ads.html %}
 
 Jika mongod tidak mau jalan karena error tersebut
 

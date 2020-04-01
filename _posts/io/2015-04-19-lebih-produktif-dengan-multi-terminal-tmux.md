@@ -7,15 +7,17 @@ category: io
 tags: [linux]
 ---
 
-##Install TMUX
+## Install TMUX
 
     sudo apt-get install TMUX
     tmux
 
-##Shorcut TMUX
+## Shorcut TMUX
 Semua ada di `CTRL+b ?` dan intinya `C-b` adalah `CTRL+b`
 
-##Start TMUX di setiap login shell
+## Start TMUX di setiap login shell
+
+{% include ads.html %}
 
 Pada `~/.bashrc` atau `~/.zshrc` tergantung shell yang digunakan
 
@@ -23,7 +25,7 @@ Pada `~/.bashrc` atau `~/.zshrc` tergantung shell yang digunakan
     [[ $- != *i* ]] && return
     [[ -z "$TMUX" ]] && exec tmux
 
-##MISC
+## MISC
 
 - https://wiki.archlinux.org/index.php/Tmux#Autostart_tmux_with_default_tmux_layout
 - https://danielmiessler.com/study/tmux/

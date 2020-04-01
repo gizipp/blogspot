@@ -7,7 +7,7 @@ category: io
 tags: [ruby, rails, devise]
 ---
 
-#Konfigurasi
+# Konfigurasi
 
 Tambah gem
 
@@ -29,7 +29,9 @@ Ingat model itu tanpa S alias single... selanjutnya konfigurasi routing config/r
 
     devise_for :users
 
-#Penggunaan
+# Penggunaan
+
+{% include ads.html %}
 
 Taruh di controller atau di application controller untuk autentikasi keseluruhan
 
@@ -48,13 +50,13 @@ Kalau modelnya buka User alias Member
     current_member
     member_session
 
-#Konfiguresi pada model
+# Konfiguresi pada model
 
     devise :database_authenticatable, :registerable, :confirmable, :recoverable, stretches: 20
 
 Selengkapnya /config/initializers/devise.rb
 
-##Strong Parameters
+## Strong Parameters
 
     sign_in (Devise::SessionsController#create)
     sign_up (Devise::RegistrationsController#create
@@ -72,7 +74,7 @@ Rails 4.x pake strong parameters
       end
     end
 
-#Konfigurasi pada view
+# Konfigurasi pada view
 
     rails generate devise:views
 
@@ -83,9 +85,8 @@ Kasus pada model banyak
 
 Jadinya di users/sessions/new dan admins/sessions/new dan default pada devise/sessions/new
 
-#Omniouth
+# Omniouth
 
     config.omniauth :github, 'APP_ID', 'APP_SECRET', scope: 'user,public_repo'
 
 Pada config/initializers/devise.rb
-

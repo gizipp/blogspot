@@ -17,7 +17,7 @@ Dan sampai di sinilah, diriku bersama Jekyll.
 
 Yakin? Setidaknya ini yang kupikirkan saat ini.
 
-#Sederhana
+# Sederhana
 
 Tinggal *git push git push git push* dan *git push.*
 
@@ -25,7 +25,7 @@ Lah, *iku kepriye?*
 
 Keliatannya ribet, dalam kondisi untukku lebih sederhana *(baca: nerds/geeks)* karena memang sederhana. Apalagi dengan *markdown*.
 
-#Cukup
+# Cukup
 
 Ho'oh!
 
@@ -33,13 +33,15 @@ Cukup alias tidak berlebihan. Entah sejak kapan, kurasa WordPress sudah berlebih
 
 Lha memangnya kenapa dengan berlebihan?
 
-#Produktifitas
+# Produktifitas
+
+{% include ads.html %}
 
 Berlebihan membuatku lebih konsen ke hal-hal *teknis-ra-bener-benerpentingisme* yang alih-alih meningkatkan produktivitas ngeblog, eh malah menurunkan produktivitas dan konsistensi ngeblog. Jujur, apalagi diriku yang notabene suka hal-hal teknis, kadang hal ini membuat salah fokus. Berjam-jam untuk ngoprek tema blog, eh kelupaan ngeblog. Yah, terlampau mudah khilaf.
 
 Nah, dengan kombinasi sederhana dan cukup, harapanku agar produktivitas ngeblognya kembali. Harapan sih.
 
-#Lalu?
+# Lalu?
 
 Lantas apakah diriku merekomendasikan, mewajibkan, mengharuskan, menghimbau kalian semua untuk beralih ke Jekyll?
 

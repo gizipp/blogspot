@@ -9,29 +9,31 @@ tags: [ruby, rails]
 
 Di Rails 4.x bisa dengan References
 
-{% highlight ruby %}
+```ruby
 rails g migration AddLinkRefToArticles link:references
-{% endhighlight %}
+```
 
 File migrasi yang terjadi
 
-{% highlight ruby %}
+```ruby
 class AddLinkRefToArticles < ActiveRecord::Migration
   def change
     add_reference :articles, :link, index: true
     add_foreign_key :articles, :links
   end
 end
-{% endhighlight %}
-
+```
 Jika benar, di schema.rb bertambah field dan index
 
-{% highlight ruby %}
+```ruby
 t.integer  "link_id"
 add_index "articles", ["link_id"], name: "index_articles_on_link_id"
-{% endhighlight %}
+```
+
+{% include ads.html %}
 
 Jangan lupa nambah relasi di model.
 
-#MISC Links
+# MISC Links
+
 [http://stackoverflow.com/questions/16257116/adding-foreign-key-to-a-rails-model](http://stackoverflow.com/questions/16257116/adding-foreign-key-to-a-rails-model)

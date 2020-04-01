@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Install ElasticSearch dan Konfigurasi Pada Rails"
-title: "ElasticSearch Pada Rails"
+title: Install ElasticSearch dan Konfigurasi Pada Rails
+shorttitle: ElasticSearch Pada Rails
 desc: "Langkah-langkah menginstall ElasticSearch dan melakukan konfigurasi pada Rails"
 category: io
 tags: [ruby, rails, elasticsearch]
@@ -12,7 +12,7 @@ ElasticSearch adalah penemuan keren di era big data. Atau sebaliknya? Big data d
 Langkah-langkahnya adalah sesuai judulnya, yaitu
 
 
-##Install ElasticSearch
+## Install ElasticSearch
 
 Untuk install ES [disini](http://www.elastic.co/guide/en/elasticsearch/guide/current/_installing_elasticsearch.html) yang intinya perintah beginian saja. Versinya jangan lupa diganti.
 
@@ -28,24 +28,25 @@ Untuk mengetest ES sudah jalan tidak, silahkan coba kau buka http:localhost:9200
 
 ##Konfigurasi Pada Rails
 
+{% include ads.html %}
+
 Gemfilenya adalah sbb
 
-{% highlight ruby %}
+```ruby
 gem 'elasticsearch', git: 'git://github.com/elasticsearch/elasticsearch-ruby.git'
 gem 'elasticsearch-model', git: 'git://github.com/elasticsearch/elasticsearch-rails.git'
 gem 'elasticsearch-rails', git: 'git://github.com/elasticsearch/elasticsearch-rails.git'
-{% endhighlight %}
-
+```
 Di modelnya adalah sbb
 
-{% highlight ruby %}
+```ruby
 class Article < ActiveRecord::Base
   include Elasticsearch::Model
   include Elasticsearch::Model::Callbacks
   Article.import
 end
-{% endhighlight %}
+```
 
-##Tautan
+## Tautan
 
 - http://www.elastic.co/guide/en/elasticsearch/guide/current/_installing_elasticsearch.html

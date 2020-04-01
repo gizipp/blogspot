@@ -7,11 +7,13 @@ category: io
 tags: [rails, bower]
 ---
 
-##Requirement
+## Requirement
 
 Pastikan NPM sudah ada... lalu ```npm install -g bower``` agar global
 
-##Inisiasi
+## Inisiasi
+
+{% include ads.html %}
 
 Di folder roots rails bikin file ```.bowerrc``` (file configurasi bower sefolder bareng .gitignore) berisi...
 
@@ -46,7 +48,7 @@ Di folder roots rails bikin file ```.bowerrc``` (file configurasi bower sefolder
 
 Lalu sudah bisa ```bower install``` mirip ```bundle install`` setelah package ditaruh di depedensi.
 
-#Configurasi di Rails
+# Configurasi di Rails
 
 Di ```/config/application.rb``` tambahkan config assets...
 

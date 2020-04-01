@@ -14,9 +14,9 @@ Berikut ini adalah catetan-catetan query MySQL agak tingkat lanjut yang agak-aga
 
 Semoga membantu diriku yang sedang di masa depan.
 
-##Find Duplicates of Multiple Column
+## Find Duplicates of Multiple Column
 
-###tl;dr
+### tl;dr
 
 {% highlight mysql %}
 SELECT id, first_coloumn, second_coloumn, count(*)
@@ -26,7 +26,7 @@ GROUP BY first_coloumn, second_coloumn
 HAVING count(*)>1
 {% endhighlight %}
 
-###csb
+### csb
 
 Mencari duplikasi pada banyak kolom tertentu, misalnya nama depan dan nama belakang. *Query*-nya adalah semacam ini :
 
@@ -48,9 +48,9 @@ Dan juga berkat ```GROUP BY first_name, last_name``` ya.
 
 Nah jikalau ingin tambah email tinggal ``GROUP BY first_name, last_name, email`` atau jikalau mengecilkan cakupan kasih saja semacam ``WHERE `office_id`  =  '323'`` saja.
 
-##Delete Duplicates of Multiple Column
+## Delete Duplicates of Multiple Column
 
-###tl:dr
+### tl:dr
 
 {% highlight mysql %}
 DELETE from table_name
@@ -60,7 +60,9 @@ AND (table_name.first_name=vtable.first_name)
 AND (table_name.last_name=vtable.last_name)
 {% endhighlight %}
 
-###csb
+### csb
+
+{% include ads.html %}
 
 Setelah bisa mencari duplikasi pada banyak kolom tertentu, misalnya nama depan dan nama belakang, lantas gimana menghapusnya duplikasinya? Tentu dengan menyisakan salah satu *row* darinya. *Query*-nya ialah kira-kira semacam ini :
 
