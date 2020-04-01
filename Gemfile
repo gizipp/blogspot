@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+ruby '2.6.5'
+
+gem 'jekyll', '~> 4.0.0'
 gem 'jekyll-sitemap'
 gem 'kramdown'
 gem 'pygments.rb'
