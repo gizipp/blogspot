@@ -11,9 +11,11 @@ Beberapa waktu kemarin, diriku tiba-tiba tertarik untuk mencoba-coba [Amazon Web
 
 ![Amazon Web Service Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/640px-AmazonWebservices_Logo.svg.png)
 
-##Apa itu amazon web services?
+## Apa itu amazon web services?
 
 Amazon Web Service atau lebih sering disebut AWS adalah layanan-layanan dan infrastruktur *cluod coumputing* (red: komputasi awan) yang dimana mereka saling terintegrasi dan kemudahan kostumisasi.
+
+{% include ads.html %}
 
 Ya gitu deh.
 
@@ -43,7 +45,7 @@ Lho, katanya gratis?
 
 ***
 
-##Tagihan bikin kaget!
+## Tagihan bikin kaget!
 
 Diriku cuma bisa melongo ketika datang tagihan yang tiba-tiba 72,93 dollar di *bills* AWS dan sekitar 900ribuan di tagihan kartu kredit.
 
@@ -142,7 +144,7 @@ Dan akhirnya.
 
 Refund penuh didapatkan olehku. Siapa yang menduga? THR tetep jalan. :D
 
-###Kesimpulan
+### Kesimpulan
 
 Jika dirimu merasakan kurang *fair* atas sesuatu yang terjadi padamu, (1) coba kau negosiasikan nasibmu dahulu, (2) kau perjuanganlah dirimu dahulu, (3) janganlah pasrah langsung menerimanya tanpa usaha dan upaya.
 
