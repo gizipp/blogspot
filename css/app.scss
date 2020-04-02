@@ -6,6 +6,7 @@
 
 $break-small: 320px;
 $break-medium: 480px;
+$break-large: 767px;
 
 $font-size: 14px;
 $font-family: 'Press Start 2P', cursive;
@@ -29,6 +30,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px;
   font-weight: normal;
+
   @media screen and (max-width: $break-small) {
     margin-bottom: 4px;
   }
@@ -36,6 +38,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 26px;
+
   @media screen and (max-width: $break-small) {
     font-size: 20px;
   }
@@ -43,6 +46,7 @@ h1 {
 
 h2 {
   font-size: 22px;
+
   @media screen and (max-width: $break-small) {
     font-size: 18px;
   }
@@ -50,46 +54,75 @@ h2 {
 
 h3 {
   font-size: 24px;
+
   @media screen and (max-width: $break-small) {
     font-size: 16px;
   }
 }
 
-.site-header{
-  height: 100px;
+.site-header {
   font-family: $font-family;
-  text-align: center;
-  margin: 25px;
-  @media screen and (max-width: $break-small) {
-    margin: 0;
-    padding-top: 25px;
-    padding-bottom: 25px;
-  }
-}
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 25px;
 
-.site-title{
-  font-size: 28px;
-  text-transform: uppercase;
-  @media screen and (max-width: $break-small) {
-    font-size: 22px;
-  }
-}
-
-.site-tagline{
-  a {
-    color: orangered;
-  }
   @media screen and (max-width: $break-medium) {
-    font-size: 62%;
+    width: 94%;
   }
+
   @media screen and (max-width: $break-small) {
-    font-size: 58%;
+    width: 90%;
+  }
+
+  &-title {
+    font-size: 28px;
+    text-transform: uppercase;
+
+    @media screen and (max-width: $break-medium) {
+      font-size: 100%;
+    }
+
+    @media screen and (max-width: $break-small) {
+      font-size: 100%;
+    }
+  }
+
+  &-tagline {
+    margin-top: 5px;
+    width: 75%;
+    text-align: center;
+    margin-bottom: 30px;
+
+    a {
+      color: orangered;
+    }
+
+    @media screen and (max-width: $break-large) {
+      width: 90%;
+    }
+
+    @media screen and (max-width: $break-medium) {
+      width: 100%;
+      font-size: 78%;
+    }
+
+    @media screen and (max-width: $break-small) {
+      width: 100%;
+      font-size: 61%;
+      margin-bottom: 10px;
+    }
   }
 }
 
 a {
   color: $scheme-color;
   text-decoration: none;
+}
+
+a:hover {
+  color: orangered;
 }
 
 a:visited {
@@ -217,7 +250,6 @@ pre {
 
 .site-front {
   min-height: 700px;
-  padding-top: 70px;
   @media screen and (max-width: $break-medium) {
     padding-top: 16px;
   }
@@ -254,13 +286,6 @@ pre {
 
 .pull-right {
   text-align: right;
-}
-
-.small-block {
-  max-width: 585px;
-  display: block;
-  margin: auto;
-  padding: auto;
 }
 
 .image {
