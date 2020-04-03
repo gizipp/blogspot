@@ -4,3 +4,4 @@ draft
 .env
 .DS_Store
 .jekyll-cache
+.jekyll-metadata
