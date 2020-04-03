@@ -4,16 +4,18 @@ title: '/null'
 desc: "Sebuah arsip null, ialah kumpulan tempat mengaduh, menuduh, mengeluh atau sedikit banyak sebaliknya dari yang menjadi kebenaran."
 permalink: /null/
 ---
-<section class="site-front block">
-  <div class="container home-group">
+
+<section class="site-archive">
+  <div class="home-group">
     {% for post in site.categories.null %}
-        <!-- <div class="grid_6"> -->
-          <!--  -->
-        <!-- </div> -->
-        <!-- <div class="grid_2">{{ post.date | date: "%b %-d, %Y" }}</div> -->
-        <div class="grid_9"><h3 class="home-list">&nbsp;&bull;&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></h3></div>
-        <div class="grid_1">{{ post.category }}</div>
-        <div class="grid_2">{{ post.date | date: "%d-%m-%Y" }}</div>
+      <div class="archive-list">
+        <div class="archive-title">
+          &bull;<a href="{{ post.url }}">
+          {% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}
+          </a>
+        </div>
+        <div class="archive-date"><a href="/{{ post.category }}">\{{ post.category }} </a> {{ post.date | date: "%d-%m-%Y" }}</div>
+      </div>
     {% endfor %}
   </div>
 </section>

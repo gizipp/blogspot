@@ -1,6 +1,3 @@
----
-# The main .css file
----
 @charset "utf-8";
 @import "syntax-highlighting";
 
@@ -64,9 +61,8 @@ h3 {
   font-family: $font-family;
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
   align-items: center;
-  margin-top: 25px;
+  margin: 25px auto 0 auto;
 
   @media screen and (max-width: $break-medium) {
     width: 94%;
@@ -81,11 +77,17 @@ h3 {
     text-transform: uppercase;
 
     @media screen and (max-width: $break-medium) {
-      font-size: 100%;
+      font-size: 120%;
     }
+  }
 
-    @media screen and (max-width: $break-small) {
-      font-size: 100%;
+  &-image {
+    background-image: url(/assets/site/header.png);
+    width: 400px;
+    height: 89px;
+
+    @media screen and (max-width: $break-medium) {
+      width: 306px;
     }
   }
 
@@ -93,7 +95,7 @@ h3 {
     margin-top: 5px;
     width: 75%;
     text-align: center;
-    margin-bottom: 30px;
+    width: 710px;
 
     a {
       color: orangered;
@@ -188,10 +190,6 @@ article {
   text-align: left;
 }
 
-footer {
-  text-align: center;
-}
-
 hr {
   width: 200px;
   margin: 2em auto;
@@ -249,7 +247,12 @@ pre {
 }
 
 .site-front {
-  min-height: 700px;
+  margin: auto;
+  display: flex;
+  flex-flow: column wrap;
+  width: 996px;
+  max-height: 700px;
+
   @media screen and (max-width: $break-medium) {
     padding-top: 16px;
   }
@@ -258,8 +261,13 @@ pre {
   }
 }
 
+.home-group {
+  box-sizing: border-box;
+}
+
 .home-list {
   font-size: 13px;
+
   @media screen and (max-width: $break-medium) {
     font-size: 11px;
   }
@@ -268,8 +276,22 @@ pre {
   }
 }
 
-.home-group {
-  padding-bottom: 20px;
+.site-archive {
+  margin: auto;
+  width: 996px;
+}
+
+.archive-header {
+  width: 996px;
+  text-align: center;
+  margin: 0 auto 20px auto;
+}
+
+.archive-list {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
 }
 
 .site-decor {
@@ -299,6 +321,7 @@ pre {
 }
 
 footer {
+  text-align: center;
   font-size: 11px;
   line-height: 17px;
   a {

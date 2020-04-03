@@ -28,7 +28,7 @@ Untuk mengetest ES sudah jalan tidak, silahkan coba kau buka http:localhost:9200
 
 ##Konfigurasi Pada Rails
 
-{% include ads.html %}
+{% comment %}{% include ads.html %}{% endcomment %}
 
 Gemfilenya adalah sbb
 

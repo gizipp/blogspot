@@ -106,7 +106,7 @@ Jika tidak tau, cek di file konfigurasi semcam `/etc/mongod.conf`
 
 ### ERROR: Insufficient free space for journal files
 
-{% include ads.html %}
+{% comment %}{% include ads.html %}{% endcomment %}
 
 Jika mongod tidak mau jalan karena error tersebut
 

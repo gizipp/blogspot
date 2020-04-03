@@ -62,7 +62,7 @@ AND (table_name.last_name=vtable.last_name)
 
 ### csb
 
-{% include ads.html %}
+{% comment %}{% include ads.html %}{% endcomment %}
 
 Setelah bisa mencari duplikasi pada banyak kolom tertentu, misalnya nama depan dan nama belakang, lantas gimana menghapusnya duplikasinya? Tentu dengan menyisakan salah satu *row* darinya. *Query*-nya ialah kira-kira semacam ini :
 

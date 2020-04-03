@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'GIXIPP #15 : Kesempurnaan Setengah Setengah'
+shorttitle: 'Kesempurnaan Setengah Setengah'
 category: gibipp
 tags: [gixipp, fiksi, ngarang]
 ---

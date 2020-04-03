@@ -1,14 +1,9 @@
 ---
 layout: default
 ---
-<div class="archive">
-  <div class="post block">
-    <header class="post-header">
-      <h1 class="post-title">{{ page.title }}</h1>
-      <p class="post-desc">{{ page.desc }}</p>
-    </header>
-  </div>
+<header class="archive-header"">
+  <h1>{{ page.title }}</h1>
+  <p>{{ page.desc }}</p>
+</header>
 
-  {{ content }}
-
-</div>
+{{ content }}

@@ -88,7 +88,7 @@ Nanti ya
 
 Project Management Software
 
-{% include ads.html %}
+{% comment %}{% include ads.html %}{% endcomment %}
 
 - Todo list module
 - Task list module
@@ -184,7 +184,7 @@ Breack and lunch.
 
 Project Management Software
 
-{% include ads.html %}
+{% comment %}{% include ads.html %}{% endcomment %}
 
 - Fixing user can't assign himself as contributor
 - Welcome email testing and changes

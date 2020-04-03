@@ -31,7 +31,7 @@ Ingat model itu tanpa S alias single... selanjutnya konfigurasi routing config/r
 
 # Penggunaan
 
-{% include ads.html %}
+{% comment %}{% include ads.html %}{% endcomment %}
 
 Taruh di controller atau di application controller untuk autentikasi keseluruhan
 

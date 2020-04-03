@@ -15,7 +15,7 @@ Beberapa waktu kemarin, diriku tiba-tiba tertarik untuk mencoba-coba [Amazon Web
 
 Amazon Web Service atau lebih sering disebut AWS adalah layanan-layanan dan infrastruktur *cluod coumputing* (red: komputasi awan) yang dimana mereka saling terintegrasi dan kemudahan kostumisasi.
 
-{% include ads.html %}
+{% comment %}{% include ads.html %}{% endcomment %}
 
 Ya gitu deh.
 

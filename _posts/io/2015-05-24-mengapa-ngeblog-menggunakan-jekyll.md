@@ -35,7 +35,7 @@ Lha memangnya kenapa dengan berlebihan?
 
 # Produktifitas
 
-{% include ads.html %}
+{% comment %}{% include ads.html %}{% endcomment %}
 
 Berlebihan membuatku lebih konsen ke hal-hal *teknis-ra-bener-benerpentingisme* yang alih-alih meningkatkan produktivitas ngeblog, eh malah menurunkan produktivitas dan konsistensi ngeblog. Jujur, apalagi diriku yang notabene suka hal-hal teknis, kadang hal ini membuat salah fokus. Berjam-jam untuk ngoprek tema blog, eh kelupaan ngeblog. Yah, terlampau mudah khilaf.
 

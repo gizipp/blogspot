@@ -30,7 +30,7 @@ t.integer  "link_id"
 add_index "articles", ["link_id"], name: "index_articles_on_link_id"
 ```
 
-{% include ads.html %}
+{% comment %}{% include ads.html %}{% endcomment %}
 
 Jangan lupa nambah relasi di model.
 

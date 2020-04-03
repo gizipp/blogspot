@@ -3,74 +3,72 @@ layout: default
 ---
 <!-- fulltitle: This overrides the default page title, which is "{{page.tite}} | {{site.title}}" -->
 <!-- desc: If this isn't set, it'll pull your {{site.tagline}} for meta description-->
-<section class="site-front block">
-  <div class="container">
-    <div class="grid_6 home-group">
-      <h2>
-        <a href="/root">/root</a>
-      </h2>
-      {% for post in site.posts limit:27 %}
-        <h3 class="home-list">
-          {% if post.category != "log" %}
-            &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
-          {% endif %}
-        </h3>
-      {% endfor %}
-    </div>
-
-    <div class="grid_6 home-group">
-      <h2>
-        <a href="/io">/io</a>
-      </h2>
-      {% for post in site.categories.io limit:5 %}
-        <h3 class="home-list">
+<section class="site-front">
+  <div class="home-group">
+    <h2>
+      <a href="/root">/root</a>
+    </h2>
+    {% for post in site.posts limit:15 %}
+      <h3 class="home-list">
+        {% if post.category != "log" %}
           &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
-        </h3>
-      {% endfor %}
-    </div>
+        {% endif %}
+      </h3>
+    {% endfor %}
+  </div>
 
-    <div class="grid_6 home-group">
-      <h2>
-        <a href="/null">/null</a>
-      </h2>
-      {% for post in site.categories.null limit:5 %}
-        <h3 class="home-list">
-          &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
-        </h3>
-      {% endfor %}
-    </div>
+  <div class="home-group">
+    <h2>
+      <a href="/io">/io</a>
+    </h2>
+    {% for post in site.categories.io limit:3 %}
+      <h3 class="home-list">
+        &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
+      </h3>
+    {% endfor %}
+  </div>
 
-    <div class="grid_6 home-group">
-      <h2>
-        <a href="/gibipp">/gibipp</a>
-      </h2>
-      {% for post in site.categories.gibipp limit:5 %}
-        <h3 class="home-list">
-          &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
-        </h3>
-      {% endfor %}
-    </div>
+  <div class="home-group">
+    <h2>
+      <a href="/null">/null</a>
+    </h2>
+    {% for post in site.categories.null limit:3 %}
+      <h3 class="home-list">
+        &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
+      </h3>
+    {% endfor %}
+  </div>
 
-    <div class="grid_6 home-group">
-      <h2>
-        <a href="/log">/log</a>
-      </h2>
-      {% for post in site.categories.log limit:5 %}
-        <h3 class="home-list">
-          &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
-        </h3>
-      {% endfor %}
-    </div>
+  <div class="home-group">
+    <h2>
+      <a href="/gibipp">/gibipp</a>
+    </h2>
+    {% for post in site.categories.gibipp limit:3 %}
+      <h3 class="home-list">
+        &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
+      </h3>
+    {% endfor %}
+  </div>
 
-    <div class="grid_6 home-group">
-      <h2>
-        <a href="/junkies">/junkies</a>
-      </h2>
-      {% for post in site.categories.junkies limit:5 %}
-        <h3 class="home-list">
-          &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
-        </h3>
-      {% endfor %}
-    </div>
+  <div class="home-group">
+    <h2>
+      <a href="/log">/log</a>
+    </h2>
+    {% for post in site.categories.log limit:15 %}
+      <h3 class="home-list">
+        &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
+      </h3>
+    {% endfor %}
+  </div>
+
+  <div class="home-group">
+    <h2>
+      <a href="/junkies">/junkies</a>
+    </h2>
+    {% for post in site.categories.junkies limit:3 %}
+      <h3 class="home-list">
+        &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
+      </h3>
+    {% endfor %}
   </div>
 </section>

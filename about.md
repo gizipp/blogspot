@@ -9,7 +9,7 @@ Hai!
 
 Inilah aku...
 
-![Aku](/assets/site/aku.jpg)
+<amp-img src="/assets/site/aku.jpg" width="1080" height="610" layout="responsive" alt="AMP"></amp-img>
 
 ...yang keliatan separo doang,
 
