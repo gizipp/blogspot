@@ -11,23 +11,34 @@ tags: [ruby, rails, devise]
 
 Tambah gem
 
-    gem 'devise'
+```ruby
+gem 'devise'
+```
 
 Lalu bundle install biasa, lalu generate
 
-    rails generate devise:install
+```bash
+rails generate devise:install
+```
+
 
 Lalu generate pada model...
 
-    rails generate devise MODEL
+```bash
+rails generate devise MODEL
+```
 
 Ex
 
-    rails generate devise User
+```bash
+rails generate devise User
+```
 
 Ingat model itu tanpa S alias single... selanjutnya konfigurasi routing config/routes.rb tambahin ini kalau belum ada
 
-    devise_for :users
+```ruby
+devise_for :users
+```
 
 # Penggunaan
 
@@ -35,26 +46,28 @@ Ingat model itu tanpa S alias single... selanjutnya konfigurasi routing config/r
 
 Taruh di controller atau di application controller untuk autentikasi keseluruhan
 
-    before_action :authenticate_user!
+```ruby
+  before_action :authenticate_user!
+```
+Helper yang ada :
+- user_signed_in?
+- current_user
+- user_session
 
-Helper-helper
+Kalau modelnya bukan User alias Member
 
-    user_signed_in?
-    current_user
-    user_session
-
-Kalau modelnya buka User alias Member
-
-    before_action :authenticate_member!
-    member_signed_in?
-    current_member
-    member_session
+- before_action :authenticate_member!
+- member_signed_in?
+- current_member
+- member_session
 
 # Konfiguresi pada model
 
-    devise :database_authenticatable, :registerable, :confirmable, :recoverable, stretches: 20
+```ruby
+devise :database_authenticatable, :registerable, :confirmable, :recoverable, stretches: 20
+```
 
-Selengkapnya /config/initializers/devise.rb
+Selengkapnya baca file `/config/initializers/devise.rb`
 
 ## Strong Parameters
 
@@ -64,29 +77,32 @@ Selengkapnya /config/initializers/devise.rb
 
 Rails 4.x pake strong parameters
 
-    class ApplicationController < ActionController::Base
-      before_action :configure_permitted_parameters, if: :devise_controller?
+```ruby
+  class ApplicationController < ActionController::Base
+    before_action :configure_permitted_parameters, if: :devise_controller?
 
-      protected
+    protected
 
-      def configure_permitted_parameters
-        devise_parameter_sanitizer.for(:sign_in) { |u| u.permit(:username, :email) }
-      end
+    def configure_permitted_parameters
+      devise_parameter_sanitizer.for(:sign_in) { |u| u.permit(:username, :email) }
     end
+  end
+```
 
 # Konfigurasi pada view
-
-    rails generate devise:views
-
+```bash
+rails generate devise:views
+```
 Kasus pada model banyak
-
-    rails generate devise:views users
-    rails generate devise:views members
-
+```bash
+rails generate devise:views users
+rails generate devise:views members
+```
 Jadinya di users/sessions/new dan admins/sessions/new dan default pada devise/sessions/new
 
 # Omniouth
+```ruby
+config.omniauth :github, 'APP_ID', 'APP_SECRET', scope: 'user,public_repo'
+```
 
-    config.omniauth :github, 'APP_ID', 'APP_SECRET', scope: 'user,public_repo'
-
-Pada config/initializers/devise.rb
+Pada `config/initializers/devise.rb`
