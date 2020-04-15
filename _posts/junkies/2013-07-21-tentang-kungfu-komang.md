@@ -9,7 +9,6 @@ tags: [sharing, opini, buku]
 
 Anak 90an mana sih yang enggak Kungfu Komang? Entah gimana ceritanya, beberapa hari lalu jadi addict banget.
 
-
 1. Dari Korea
 2. Lucu bgt, saya suka non-sense humor
 3. Karakternya g masuk akal
