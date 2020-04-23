@@ -19,7 +19,7 @@ Amazon Web Service atau lebih sering disebut AWS adalah layanan-layanan dan infr
 
 Ya gitu deh.
 
-Baca aja di [sini pengenalan AWS](http://www.cloudindonesia.or.id/pengenalan-amazon-web-services.html){:target="_blank"}.
+Baca aja di [sini pengenalan AWS](https://go.gizipp.com/http://www.cloudindonesia.or.id/pengenalan-amazon-web-services.html){:target="_blank"}.
 
 Nah, apalagi dengan adanya *free usage tier*, tanpa ragu-ragu diriku langsung *apply credit card* dan bersegera mengaktifkan promo gratisan satu tahun ini.
 
