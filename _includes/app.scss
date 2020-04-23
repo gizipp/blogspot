@@ -138,6 +138,12 @@ a:visited {
   padding-bottom: 100px;
 }
 
+.container {
+  max-width: 580px;
+  padding: 20px;
+  margin: auto;
+}
+
 article {
   margin-top: 40px;
   h1, h2, h3 {
@@ -151,7 +157,7 @@ article {
     margin-bottom: 20px;
     @media screen and (max-width: $break-small) {
       word-spacing: 1px;
-      font-size: 9px;
+      font-size: 70%;;
       margin-bottom: 10px;
       line-height: 18px;
     }
@@ -247,11 +253,10 @@ pre {
 }
 
 .site-front {
+  max-width: 580px;
   margin: auto;
-  display: flex;
-  flex-flow: column wrap;
-  width: 996px;
-  max-height: 700px;
+  text-align: center;
+  padding: 20px;
 
   @media screen and (max-width: $break-medium) {
     padding-top: 16px;
@@ -263,26 +268,31 @@ pre {
 
 .home-group {
   box-sizing: border-box;
+  margin-bottom: 36px;
+
+  @media screen and (max-width: $break-small) {
+    margin-bottom: 22px;
+  }
 }
 
 .home-list {
   font-size: 13px;
 
-  @media screen and (max-width: $break-medium) {
-    font-size: 11px;
-  }
+  // @media screen and (max-width: $break-medium) {
+  //   font-size: 11px;
+  // }
   @media screen and (max-width: $break-small) {
-    font-size: 8px;
+    line-height: 1.6em;
   }
 }
 
 .site-archive {
+  max-width: 580px;
   margin: auto;
-  width: 996px;
+  padding: 20px;
 }
 
 .archive-header {
-  width: 996px;
   text-align: center;
   margin: 0 auto 20px auto;
 }
@@ -292,6 +302,10 @@ pre {
   justify-content: space-between;
   margin-bottom: 16px;
   flex-wrap: wrap;
+}
+
+.archive-date {
+  display: none;
 }
 
 .site-decor {

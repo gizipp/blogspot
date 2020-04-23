@@ -11,7 +11,7 @@ layout: default
     {% for post in site.posts limit:15 %}
       <h3 class="home-list">
         {% if post.category != "log" %}
-          &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
+          <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
         {% endif %}
       </h3>
     {% endfor %}
@@ -23,7 +23,7 @@ layout: default
     </h2>
     {% for post in site.categories.io limit:3 %}
       <h3 class="home-list">
-        &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
+        <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
       </h3>
     {% endfor %}
   </div>
@@ -34,7 +34,7 @@ layout: default
     </h2>
     {% for post in site.categories.null limit:3 %}
       <h3 class="home-list">
-        &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
+        <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
       </h3>
     {% endfor %}
   </div>
@@ -45,7 +45,7 @@ layout: default
     </h2>
     {% for post in site.categories.gibipp limit:3 %}
       <h3 class="home-list">
-        &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
+        <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
       </h3>
     {% endfor %}
   </div>
@@ -56,7 +56,7 @@ layout: default
     </h2>
     {% for post in site.categories.log limit:15 %}
       <h3 class="home-list">
-        &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
+        <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
       </h3>
     {% endfor %}
   </div>
@@ -67,7 +67,7 @@ layout: default
     </h2>
     {% for post in site.categories.junkies limit:3 %}
       <h3 class="home-list">
-        &bull; <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
+        <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
       </h3>
     {% endfor %}
   </div>
