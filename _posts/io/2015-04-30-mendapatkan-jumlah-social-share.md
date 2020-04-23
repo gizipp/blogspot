@@ -41,7 +41,7 @@ Beberapa waktu yang lalu diriku iseng membuat *crawler* sederhana dan sedikit su
     self.gplus_count = googleplus_data.css('div#aggregateCount')[0].text.to_i
 
 
-{% comment %}{% include ads.html %}{% endcomment %}
+
 
 
 https://gist.github.com/jonathanmoore/2640302

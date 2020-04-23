@@ -15,7 +15,7 @@ Hapus branch remote yang sudah tidak dipakai alias sudah merged ke master/prod
 
 ## Hapus Branch Lokal
 
-{% comment %}{% include ads.html %}{% endcomment %}
+
 
 Hapus branch local yang sudah tidak dipakai alias sudah merged ke master/prod
 

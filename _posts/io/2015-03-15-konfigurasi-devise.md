@@ -42,7 +42,7 @@ devise_for :users
 
 # Penggunaan
 
-{% comment %}{% include ads.html %}{% endcomment %}
+
 
 Taruh di controller atau di application controller untuk autentikasi keseluruhan
 

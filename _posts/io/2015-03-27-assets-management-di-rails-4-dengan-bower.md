@@ -13,7 +13,7 @@ Pastikan NPM sudah ada... lalu ```npm install -g bower``` agar global
 
 ## Inisiasi
 
-{% comment %}{% include ads.html %}{% endcomment %}
+
 
 Di folder roots rails bikin file ```.bowerrc``` (file configurasi bower sefolder bareng .gitignore) berisi...
 
