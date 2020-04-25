@@ -140,7 +140,8 @@ Tanpa pengharapan apa-apa, kecuali karena sebal.
 
 Dan akhirnya.
 
-![Refund AWS](/assets/post/refund-amazon-web-service-aws.png)
+<amp-img src="/assets/post/refund-amazon-web-service-aws.png" width="623" height="213" layout="responsive" alt="Refund AWS"></amp-img>
+
 
 Refund penuh didapatkan olehku. Siapa yang menduga? THR tetep jalan. :D
 
