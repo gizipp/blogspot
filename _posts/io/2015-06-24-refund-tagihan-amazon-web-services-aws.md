@@ -9,7 +9,7 @@ tags: [sharing, ngoprek, aws]
 
 Beberapa waktu kemarin, diriku tiba-tiba tertarik untuk mencoba-coba [Amazon Web Services (AWS)](http://aws.amazon.com/free/){:target="_blank"}.
 
-![Amazon Web Service Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/640px-AmazonWebservices_Logo.svg.png)
+<amp-img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/640px-AmazonWebservices_Logo.svg.png" width="640" height="241" layout="responsive" alt="Amazon Web Service Logo"></amp-img>
 
 ## Apa itu amazon web services?
 
