@@ -7,7 +7,7 @@ permalink: /log/
   {% for post in site.categories.log %}
     <div class="archive-list">
       <div class="archive-title">
-        &bull;<a href="{{ post.url }}">
+        <a href="{{ post.url }}">
         {% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}
         </a>
       </div>

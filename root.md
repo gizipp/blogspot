@@ -8,7 +8,7 @@ permalink: /root/
   <div class="home-group">
     {% for post in site.posts%}
       <div class="archive-list">
-        <div class="archive-title">&bull;<a href="{{ post.url }}">
+        <div class="archive-title"><a href="{{ post.url }}">
           {% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}
           </a>
         </div>
