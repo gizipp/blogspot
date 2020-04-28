@@ -29,5 +29,10 @@ permalink:   /:categories/:title.html
 
 markdown: kramdown
 
-gems:
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
+
+plugins:
   - jekyll-sitemap
+  - jekyll-minifier
