@@ -4,7 +4,8 @@ title: Surabaya, Perjalanan Tanpa Rencana
 shorttitle: Surabaya, Tanpa Rencana
 desc: Suatu hari, jalan-jalan ke Surabaya dengan rencana untuk tersesat. Atau tanpa rencana?
 category: 'null'
-tags: [jurnal, jalan-jalan]
+tags: [jurnal, melancong, rancauan]
+last_modified_at: 2020-05-08
 ---
 
 Saat ini diriku berada di Surabaya bersama Arif Rohmadi dan Bagus Wijanarko! Sedang terlunta-lunta, tak tahu jalan, tak tahu mau kemana.

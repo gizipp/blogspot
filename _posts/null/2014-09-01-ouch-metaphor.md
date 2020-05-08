@@ -1,9 +1,10 @@
 ---
 layout: post
 title: OUCH Metaphor
-desc :  Kupikir aku punya kabar gembira untuk kita semua yang masih mengaduh.
+desc: Kupikir aku punya kabar gembira untuk kita semua yang masih mengaduh.
 category: 'null'
 tags: [jurnal, opini, curcol]
+last_modified_at: 2020-05-08
 ---
 
 Suatu hari aku makan makanan yang kusuka.

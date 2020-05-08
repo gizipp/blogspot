@@ -3,7 +3,8 @@ layout: post
 title: STPN Wannabe
 desc: Postingan alay awal-awal pertama ngeblog episode 0 agar semua tahu kita semua pernah alay.
 category: 'null'
-tags: [jurnal, goblog]
+tags: [jurnal, kehidupan, memori]
+last_modified_at: 2020-05-08
 ---
 
 Waktu itu 17th of june, uh wisuda aku... g nyangka lulus jg... wkwk...

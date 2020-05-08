@@ -3,7 +3,8 @@ layout: post
 title: All In One Wish
 desc: Postingan alay awal-awal pertama ngeblog episode 0 agar semua tahu kita semua pernah alay.
 category: 'null'
-tags: [jurnal, goblog]
+tags: [jurnal, rancauan, pemikiran]
+last_modified_at: 2020-05-08
 ---
 
 Hmm, kenapa ya ni blog aku kasih nama kayak gitu? “All In One Wish”. Nggak ada yang khusus sih, cuma pengen keliatan keren aja sih, walaupun kata dibawahnya nggak ada keren2nya, Ha3… Tapi dibalik nama itu ternyata ada sedikit cerita pula lo…
