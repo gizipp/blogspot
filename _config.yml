@@ -15,7 +15,6 @@ instagram: gizipp
 phone: "916-276-1044" # This is my real number. You should text me.
 email: "gmail@gizipp.com" # This is my real email address. Please don't email me.
 
-
 # GA
 analytics_id: UA-29500251-14
 
@@ -36,3 +35,4 @@ jekyll-minifier:
 plugins:
   - jekyll-sitemap
   - jekyll-minifier
+  - jemoji
