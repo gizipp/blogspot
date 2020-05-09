@@ -17,10 +17,6 @@ Semua ada di `CTRL+b ?` dan intinya `C-b` adalah `CTRL+b`
 
 ## Start TMUX di setiap login shell
 
-{% comment %}
-  {% include ads.html %}
-{% endcomment %}
-
 Pada `~/.bashrc` atau `~/.zshrc` tergantung shell yang digunakan
 
     # If not running interactively, do not do anything
