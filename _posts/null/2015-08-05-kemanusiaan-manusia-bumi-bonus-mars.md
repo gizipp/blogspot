@@ -2,7 +2,7 @@
 layout: post
 title: Kemanusiaan Manusia Bumi, Bonus Mars!
 shorttitle: Kemanusiaan Manusia Bumi
-desc :  Baru saja kutusuk seseorang dengan ludahnya sendiri sebab ia meludah sembarangan pada seseorang lainnya.
+description:  Baru saja kutusuk seseorang dengan ludahnya sendiri sebab ia meludah sembarangan pada seseorang lainnya.
 category: 'null'
 tags: [jurnal, rancauan, curcol]
 ---

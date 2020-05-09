@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GIXIPP #16 : Kepekaan Jiwa Hidup"
-desc: "Suatu hari, GIXIPP bertemu jiwa hidup yang seharusnya peka."
+description: "Suatu hari, GIXIPP bertemu jiwa hidup yang seharusnya peka."
 category: gibipp
 tags: [gixipp, fiksi, ngarang]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEO untuk Developer'
-desc:
+description:
 tags:
 ---
 

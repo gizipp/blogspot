@@ -2,7 +2,7 @@
 layout: post
 title: "Daftar Film Cha Tae Hyun Lama + Jadul hingga Terbaru"
 shorttitle: "Daftar Film Cha Tae Hyun"
-desc: "Seputar pemikiran setelah daftar dilm Cha Tae Hyun Lama + Jadul hingga Terbaru"
+description: "Seputar pemikiran setelah daftar dilm Cha Tae Hyun Lama + Jadul hingga Terbaru"
 category: junkies
 tags: [sharing, opini, film]
 ---

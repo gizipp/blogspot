@@ -2,7 +2,7 @@
 layout: post
 title: "Konfigurasi fullpage.js"
 shorttitle: "Konfigurasi fullpage.js"
-desc: "Konfigurasi devise untuk otentikasi."
+description: "Konfigurasi devise untuk otentikasi."
 category: io
 tags: [js]
 ---

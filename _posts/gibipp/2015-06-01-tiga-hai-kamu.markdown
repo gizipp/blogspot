@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tiga : Hai Kamu "
-desc:  "Hai kamu, dan penyebab canduku. Kupikir aku menemukan saapan yang tepat. Lagi."
+description:  "Hai kamu, dan penyebab canduku. Kupikir aku menemukan saapan yang tepat. Lagi."
 category: gibipp
 tags: [Diare Pencandu Kamu, Fiksi, Mbeling]
 

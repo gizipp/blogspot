@@ -1,7 +1,7 @@
 ---
 layout: post
 title: STPN Wannabe
-desc: Postingan alay awal-awal pertama ngeblog episode 0 agar semua tahu kita semua pernah alay.
+description: Postingan alay awal-awal pertama ngeblog episode 0 agar semua tahu kita semua pernah alay.
 category: 'null'
 tags: [jurnal, kehidupan, memori]
 last_modified_at: 2020-05-08

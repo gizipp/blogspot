@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "20 Days of Rails!"
-desc: "Jurnal catatan belajar Ruby on Rails selama sebulan atau 20 hari jam kerja. Halah."
+description: "Jurnal catatan belajar Ruby on Rails selama sebulan atau 20 hari jam kerja. Halah."
 category: io
 tags: [rails]
 ---

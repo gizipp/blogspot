@@ -2,7 +2,7 @@
 layout: post
 title: "Override Link Renderer Class Pada Will Paginate Gem"
 shorttitle: "Override Will Paginate"
-desc: "Penjelasan cara melakukan override kelas Link Renderer pada Gem Will Paginate"
+description: "Penjelasan cara melakukan override kelas Link Renderer pada Gem Will Paginate"
 category: io
 tags: [ruby, rails, will paginate]
 ---

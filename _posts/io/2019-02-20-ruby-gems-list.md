@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ruby Gems list"
-desc: "daftar ruby gems"
+description: "daftar ruby gems"
 category: io
 tags: [ruby, rails, ngoding]
 ---

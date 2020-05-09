@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GIXIPP #3 : Rem Roda Kehidupan'
-desc:
+description:
 category: gibipp
 tags: [gixipp, fiksi, ngarang]
 ---

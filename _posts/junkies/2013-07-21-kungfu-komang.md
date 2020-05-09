@@ -2,7 +2,7 @@
 layout: post
 title: "7 Hal Tentang Kungfu Komang"
 shorttitle: "Kungfu Komang"
-desc: "Tentang Kungfu Komang"
+description: "Tentang Kungfu Komang"
 category: junkies
 tags: [sharing, opini, buku]
 last_modified_at: 2020-05-08

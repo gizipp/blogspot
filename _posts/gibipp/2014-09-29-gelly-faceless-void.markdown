@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GELLY! The Faceless Void"
-desc: "Suatu hari, bertemu GELLY karena dan hanya karena keentahan yang menjadi-jadi."
+description: "Suatu hari, bertemu GELLY karena dan hanya karena keentahan yang menjadi-jadi."
 category: gibipp
 tags: [gelly, fiksi, artwork]
 ---

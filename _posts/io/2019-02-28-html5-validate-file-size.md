@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTML5 Validate File Size?"
-desc: "Semacam snippet validasi file size yang pengennya pake html5"
+description: "Semacam snippet validasi file size yang pengennya pake html5"
 category: io
 tags: [html5]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Perbedaan string kutip satu dan kutip dua di Ruby
-desc: Perbedaan string literal kutip satu 'string' dan kutip dua "string" di Ruby
+description: Perbedaan string literal kutip satu 'string' dan kutip dua "string" di Ruby
 tags: Ruby
 ---
 

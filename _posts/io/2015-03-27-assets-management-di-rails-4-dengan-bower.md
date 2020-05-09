@@ -2,7 +2,7 @@
 layout: post
 title: "Assets Management Rails 4.x Dengan Bower"
 shorttitle: "Rails+Bower Assets Management"
-desc: "Assets Management di Ruby On Rails 4.x dengan memanfaatkan Bower"
+description: "Assets Management di Ruby On Rails 4.x dengan memanfaatkan Bower"
 category: io
 tags: [rails, bower]
 ---

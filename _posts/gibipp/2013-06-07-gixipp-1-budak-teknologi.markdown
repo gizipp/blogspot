@@ -2,8 +2,9 @@
 layout: post
 title: 'GIXIPP #1 : Seonggok Budak Teknologi'
 category: gibipp
-desc:
+description:
 tags: [gixipp, fiksi, ngasal]
+last_modified_at: 2020-05-09
 ---
 Seonggok budak teknologi itu lupa bahwa asal muasal hidup itu berasal dari kehidupan. Bukan dari benda mati.
 

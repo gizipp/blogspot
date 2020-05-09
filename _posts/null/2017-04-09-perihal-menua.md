@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Perihal Menua
-desc : Perihal Menua itu pasti dewasa itu pilihan
+description: Perihal Menua itu pasti dewasa itu pilihan
 category: 'null'
 tags: [jurnal, rancauan, curcol]
 last_modified_at: 2020-05-08

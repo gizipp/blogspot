@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dua : Sebab Canduku"
-desc: "Hai kamu, dan penyebab canduku. Kupikir aku menemukan saapan yang tepat."
+description: "Hai kamu, dan penyebab canduku. Kupikir aku menemukan saapan yang tepat."
 category: gibipp
 tags: [Diare Pencandu Kamu, Fiksi, Mbeling]
 ---

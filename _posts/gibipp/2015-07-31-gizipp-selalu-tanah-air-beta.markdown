@@ -2,7 +2,7 @@
 layout: post
 title: "GIZIPP v.0.1 : Selalu Tanah Air Bet "
 shorttitle: "GIZIPP v.0.1"
-desc:  "Selamat tinggal GIZIPP generasi lama menjadi generasi baru sebutlah ia yang selalu tanah air beta."
+description:  "Selamat tinggal GIZIPP generasi lama menjadi generasi baru sebutlah ia yang selalu tanah air beta."
 category: gibipp
 tags: [GIZIPP, Iseng]
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All In One Wish
-desc: Postingan alay awal-awal pertama ngeblog episode 0 agar semua tahu kita semua pernah alay.
+description: Postingan alay awal-awal pertama ngeblog episode 0 agar semua tahu kita semua pernah alay.
 category: 'null'
 tags: [jurnal, rancauan, pemikiran]
 last_modified_at: 2020-05-08

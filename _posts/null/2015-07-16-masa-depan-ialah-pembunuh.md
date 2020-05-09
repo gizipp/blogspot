@@ -2,7 +2,7 @@
 layout: post
 title: Masa Depan Ialah Pembunuh Masa Sekarang
 shorttitle: Masa Depan Ialah Pembunuh
-desc :  Ceritakanlah aku dalam masa sekarang, oleh masa depan dan masa lalu.
+description:  Ceritakanlah aku dalam masa sekarang, oleh masa depan dan masa lalu.
 category: 'null'
 tags: [jurnal, rancauan, curcol]
 ---

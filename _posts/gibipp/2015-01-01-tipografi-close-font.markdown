@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tipografi : Font Close"
-desc: "Keisengan tipografi lagi kali ini menyajikan Close bikinan Alexey Frolov."
+description: "Keisengan tipografi lagi kali ini menyajikan Close bikinan Alexey Frolov."
 category: gibipp
 tags: [design, tipografi, font]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Mendapatkan Jumlah Social Share Sebuah URL"
 shorttitle: "Social Share Count"
-desc: "Mendapat jumlah social share sebuah url di berbagai social media e.g twitter via API JSON."
+description: "Mendapat jumlah social share sebuah url di berbagai social media e.g twitter via API JSON."
 category: io
 tags: [api, socmed, json]
 ---

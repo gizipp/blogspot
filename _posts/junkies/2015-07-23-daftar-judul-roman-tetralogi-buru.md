@@ -2,7 +2,7 @@
 layout: post
 title: "Daftar Judul Roman Tetralogi Buru"
 shorttitle: "Tetralogi Buru"
-desc: "Seputar pemikiran setelah merampungkan Tetralogi Buru : Bumi Manusia, Anak Semua Bangsa, Jejak Langkah, dan Rumah Kaca."
+description: "Seputar pemikiran setelah merampungkan Tetralogi Buru : Bumi Manusia, Anak Semua Bangsa, Jejak Langkah, dan Rumah Kaca."
 category: junkies
 tags: [sharing, opini, buku]
 ---

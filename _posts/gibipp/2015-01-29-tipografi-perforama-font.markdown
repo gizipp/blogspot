@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tipografi : Font Perforama"
-desc: "Keisengan tipografi lagi kali ini menyajikan Perforama bikinan Alexey Frolov."
+description: "Keisengan tipografi lagi kali ini menyajikan Perforama bikinan Alexey Frolov."
 category: gibipp
 tags: [design, tipografi, font]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tentang Betapa Magernya Diriku
-desc : Tentang Betapa Magernya Diriku
+description: Tentang Betapa Magernya Diriku
 category: 'null'
 tags: [jurnal, rancauan, curcol]
 ---

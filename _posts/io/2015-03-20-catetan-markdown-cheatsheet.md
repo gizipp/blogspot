@@ -2,7 +2,7 @@
 layout: post
 title: "Catetan Markdown (Cheatsheet)"
 shorttitle: "Catetan Markdown (Cheatsheet)"
-desc: "Catetan Markdown cheatsheet kalau-kalau lupa-lupa ingat."
+description: "Catetan Markdown cheatsheet kalau-kalau lupa-lupa ingat."
 category: io
 tags: [markdown]
 ---

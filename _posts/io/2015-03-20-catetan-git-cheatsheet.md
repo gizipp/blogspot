@@ -2,7 +2,7 @@
 layout: post
 title: "Catetan Git (Cheatsheet)"
 shorttitle: "Catetan Git (Cheatsheet)"
-desc: "Catetan Git cheatsheet kalau-kalau lupa-lupa ingat."
+description: "Catetan Git cheatsheet kalau-kalau lupa-lupa ingat."
 category: io
 tags: [git]
 ---

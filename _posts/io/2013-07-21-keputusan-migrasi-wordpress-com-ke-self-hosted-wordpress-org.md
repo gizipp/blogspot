@@ -3,7 +3,7 @@ layout: post
 title: "Keputusan Migrasi Wordpress.com ke Self-Hosted Wordpress.org"
 modified:
 category: io
-desc: "Alasan mengapa diriku dan mungkin dirimu berpindah ke Wordpress.org"
+description: "Alasan mengapa diriku dan mungkin dirimu berpindah ke Wordpress.org"
 tags: [blogging, jekyll, opini]
 date: 2015-05-24T12:15:40+07:00
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Melihat Masa Depan Itu Perlu
-desc: Postingan alay awal-awal pertama ngeblog episode 0 agar semua tahu kita semua pernah alay.
+description: Postingan alay awal-awal pertama ngeblog episode 0 agar semua tahu kita semua pernah alay.
 category: 'null'
 tags: [jurnal, pemikiran, curcol]
 last_modified_at: 2020-05-08

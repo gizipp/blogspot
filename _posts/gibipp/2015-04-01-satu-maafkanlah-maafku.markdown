@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Satu : Maafkanlah Maafku!"
-desc: "Hai, halo, eh, bingung, kata apa sih enaknya untuk memulai surat ini."
+description: "Hai, halo, eh, bingung, kata apa sih enaknya untuk memulai surat ini."
 category: gibipp
 tags: [Diare Pencandu Kamu, Fiksi, Mbeling]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Menilik Kembali Kegemaran Fotografi
-desc : Menilik Kembali Kegemaran Jepret-Jepret, Sebenarnya Bagaimana Memaknai Keseriusan Menggeluti Fotografi?.
+description: Menilik Kembali Kegemaran Jepret-Jepret, Sebenarnya Bagaimana Memaknai Keseriusan Menggeluti Fotografi?.
 category: 'null'
 tags: [jurnal, rancauan, curcol]
 last_modified_at: 2020-05-08

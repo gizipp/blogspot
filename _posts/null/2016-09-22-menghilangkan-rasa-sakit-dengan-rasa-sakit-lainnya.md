@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Menghilangkan Rasa Sakit Dengan Rasa Sakit Lainnya
-desc: Postingan alay awal-awal pertama ngeblog episode 0 agar semua tahu kita semua pernah alay.
+description: Postingan alay awal-awal pertama ngeblog episode 0 agar semua tahu kita semua pernah alay.
 category: 'null'
 tags: [jurnal, goblog, curcol]
 ---

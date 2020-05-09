@@ -9,7 +9,7 @@
 
 	<!-- Plain Description -->
 	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-	<meta name="description" content="{% if page.desc %}{{page.desc}}{% else %}{{site.tagline}}{% endif %}">
+	<meta name="description" content="{% if page.description %}{{page.description }}{% else %}{{site.tagline}}{% endif %}">
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -21,13 +21,13 @@
 	<!-- Google+ -->
 	<link rel="publisher" href="https://plus.google.com/{{site.googleplus}}"/>
 	<meta itemprop="name" content="{% if page.fulltitle %}{{page.fulltitle}}{% else %}{{page.title}} | {{ site.title }} {% endif %}">
-	<meta itemprop="description" content="{% if page.desc %}{{page.desc}}{% else %}{{site.tagline}}{% endif %}">
+	<meta itemprop="description" content="{% if page.description %}{{page.description }}{% else %}{{site.tagline}}{% endif %}">
 	<meta itemprop="image" content="{% if page.image %}{{site.url}}{{page.image}}{% else %}{{site.url}}{{site.socialimg}}{% endif %}">
 
 	<!-- Facebook -->
 	<meta property="og:type" content="website"/>
 	<meta property="og:title" content="{% if page.fulltitle %}{{page.fulltitle}}{% else %}{{page.title}} | {{ site.title }} {% endif %}"/>
-	<meta property="og:description" content="{% if page.desc %}{{page.desc}}{% else %}{{site.tagline}}{% endif %}"/>
+	<meta property="og:description" content="{% if page.description %}{{page.description }}{% else %}{{site.tagline}}{% endif %}"/>
 	<meta property="og:image" content="{% if page.image %}{{site.url}}{{page.image}}{% else %}{{site.url}}{{site.socialimg}}{% endif %}"/>
 	<meta property="og:url" content="{{site.url}}{{page.url}}"/>
 	<meta property="og:site_name" content="{{ site.title }} "/>
@@ -35,7 +35,7 @@
 	<!-- Twitter -->
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:title" content="{% if page.fulltitle %}{{page.fulltitle}}{% else %}{{page.title}} | {{ site.title }} {% endif %}">
-	<meta name="twitter:description" content="{% if page.desc %}{{page.desc}}{% else %}{{site.tagline}}{% endif %}">
+	<meta name="twitter:description" content="{% if page.description %}{{page.description }}{% else %}{{site.tagline}}{% endif %}">
 	<meta name="twitter:image" content="{{site.url}}{{site.socialimg}}">
 	<meta name="twitter:url" content="{{site.url}}{{page.url}}">
 

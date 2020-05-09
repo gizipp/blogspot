@@ -2,7 +2,7 @@
 layout: post
 title: "Konfigurasi Devise"
 shorttitle: "Konfigurasi Devise"
-desc: "Konfigurasi devise untuk otentikasi."
+description: "Konfigurasi devise untuk otentikasi."
 category: io
 tags: [ruby, rails, devise]
 ---

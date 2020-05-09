@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ActiveRecord Set Attibutes Rails 4"
-desc: "cara set attributes di rails 4"
+description: "cara set attributes di rails 4"
 category: io
 tags: [rails]
 ---
