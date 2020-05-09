@@ -116,7 +116,7 @@ Project Management Software
 *17/9/2014 (8)*
 
 - Self Learning : Install RefineryCMS and learn the code
-- Self Learning : http://tryruby.org/ (Completed)
+- Self Learning : https://tryruby.org/ (Completed)
 - Reading “RAILS ANTIPATTERNS  Best Practice Ruby on Rails TM Refactoring” (BAB 1. Model)
 
 Project Management Software
@@ -238,7 +238,7 @@ Break, pray and lunch.
 
 - Reading "Git- Version Control for Everyone" (ch.1 - 6)
 - Reading "Algorithms in a Nutshell" (ch.1 Algorithm Matter!)
-- Learn regex and try http://regexone.com/
+- Learn regex and try https://regexone.com/
 
 Project Management Software
 
@@ -250,7 +250,7 @@ Project Management Software
 
 Tomorrow Task
 
-- Reset password http://pmspms.herokuapp.com/users/password/new doesn't work
+- Reset password https://pmspms.herokuapp.com/users/password/new doesn't work
 - Work on comment attachment and task attachment
 
 ## Kesimpulan Minggu ke-3
@@ -303,7 +303,7 @@ Break and lunch.
 
 - Learning git branch management, merging etc
 - Re-reading "The RSpec Book" Chapter RSpec
-- Learning ruby operators http://www.tutorialspoint.com/ruby/ruby_operators.htm
+- Learning ruby operators https://www.tutorialspoint.com/ruby/ruby_operators.htm
 
 Robot Coding Test
 
@@ -320,9 +320,9 @@ Zoo Property
 
 Break and lunch.
 
-- Learning ruby operators http://www.tutorialspoint.com/ruby/ruby_operators.htm
+- Learning ruby operators https://www.tutorialspoint.com/ruby/ruby_operators.htm
 - Learning the functional of Zoo system
-- Reading Rails Guides 2.3.11 http://guides.rubyonrails.org/v2.3.11/
+- Reading Rails Guides 2.3.11 https://guides.rubyonrails.org/v2.3.11/
 
 Zoo Property
 
@@ -335,9 +335,9 @@ Zoo Property
 
 Break and lunch.
 
-- Reading Rails Guides 2.3.11 http://guides.rubyonrails.org/v2.3.11/
+- Reading Rails Guides 2.3.11 https://guides.rubyonrails.org/v2.3.11/
 - Learning the functional of Zoo system
-- Ruby Example Code http://sandbox.mc.edu/~bennet/ruby/code/index.html (basic + Control Structures)
+- Ruby Example Code https://sandbox.mc.edu/~bennet/ruby/code/index.html (basic + Control Structures)
 
 Zoo Property
 

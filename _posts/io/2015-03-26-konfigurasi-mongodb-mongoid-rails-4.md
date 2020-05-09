@@ -12,7 +12,7 @@ Di sini memakai Rails 4.2 namun seharusnya juga bisa untuk Rails 4.x
 ## Installasi mongodb
 
     sudo apt-key adv --keyserver keyserver.ubuntu.com --recv 7F0CEB10
-    sudo echo "deb http://downloads-distro.mongodb.org/repo/ubuntu-upstart dist 10gen" | tee -a /etc/apt/sources.list.d/10gen.list
+    sudo echo "deb https://downloads-distro.mongodb.org/repo/ubuntu-upstart dist 10gen" | tee -a /etc/apt/sources.list.d/10gen.list
     sudo apt-get -y update
     sudo apt-get -y install mongodb-10gen
 
@@ -90,7 +90,7 @@ end
 ## Links
 
 - https://gorails.com/blog/rails-4-0-with-mongodb-and-mongoid
-- http://mongoid.org/en/mongoid/v3/querying.html
+- https://mongoid.org/en/mongoid/v3/querying.html
 
 ## Issue
 

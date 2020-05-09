@@ -4,9 +4,10 @@ title: "GIXIPP #16 : Kepekaan Jiwa Hidup"
 description: "Suatu hari, GIXIPP bertemu jiwa hidup yang seharusnya peka."
 category: gibipp
 tags: [gixipp, fiksi, ngarang]
+last_modified_at: 2020-05-09
 ---
 
-![gixipp 16](http://gizipp.com/wp-content/uploads/16-printer-gizipp-gixipp.png)
+![gixipp 16](https://gizipp.com/wp-content/uploads/16-printer-gizipp-gixipp.png)
 
 "Sudah... sudah bisa...." Ujarku menyampaikan kondisi terbaru berupa kabar bahagia itu. Aku sendiri cukup kaget dengan kejeniusanku. Atau Google, tepatnya!
 
@@ -35,4 +36,3 @@ Tapi sesungguhnya selalu saja ada sesuatu yang mengganjal di antara jemariku dan
 "Aku sungguh tidak bisa menerimanya..." Dan benar seperti biasanya, Rosie nampak kecewa. Ini memang bukan pertama kalinya. Tapi untuk selalu menolaknya sekian kali dan berulang kali, adalah selalu merupakan dilema. "Maaf Rosie, aku bukan tukang reparasi komputer..." Ku kembalikan selembar uang 50 ribu itu yang mengganjal di antara jemariku dan jemarinya dan berlalu.
 
 Ah, sebenarnya itu cukup untuk makan beberapa hari, pikirku.
-

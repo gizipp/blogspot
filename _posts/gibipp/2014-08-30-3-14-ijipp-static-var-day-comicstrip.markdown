@@ -5,9 +5,10 @@ shorttitle: "Static Var Day!"
 description:  "Kegiatan si IJIPP sehari-hari, nampaknya."
 category: gibipp
 tags: [comicstrip, ijipp]
+last_modified_at: 2020-05-09
 ---
 
-![ijipp](http://gizipp.com/wp-content/uploads/3.14-ijipp-comicstrip-for-geeks-static-var-day-by-gizipp.png)
+![ijipp](https://gizipp.com/wp-content/uploads/3.14-ijipp-comicstrip-for-geeks-static-var-day-by-gizipp.png)
 
 Jadi...
 

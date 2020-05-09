@@ -10,7 +10,7 @@ tags: [js, ui, ux]
 Eco-Scroll.js
 Eco-friendly jQuery scroll plugin with inifinite possibilities
 
-goto http://www.juntamng.com/eco-Scroll for details
+goto https://www.juntamng.com/eco-Scroll for details
 
 <!DOCTYPE html>
 
@@ -53,8 +53,8 @@ goto http://www.juntamng.com/eco-Scroll for details
             </div>
         </div>
 
-        <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-        <script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>
+        <script src="https://code.jquery.com/jquery-1.9.1.js"></script>
+        <script src="https://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>
         <script src="../js/jquery.eco-scroll.js"></script>
     <script>
     $(function()

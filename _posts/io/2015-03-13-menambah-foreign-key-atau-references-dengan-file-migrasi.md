@@ -36,4 +36,4 @@ Jangan lupa nambah relasi di model.
 
 # MISC Links
 
-[http://stackoverflow.com/questions/16257116/adding-foreign-key-to-a-rails-model](http://stackoverflow.com/questions/16257116/adding-foreign-key-to-a-rails-model)
+[https://stackoverflow.com/questions/16257116/adding-foreign-key-to-a-rails-model](https://stackoverflow.com/questions/16257116/adding-foreign-key-to-a-rails-model)

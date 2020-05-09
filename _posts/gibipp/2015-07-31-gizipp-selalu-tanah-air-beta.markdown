@@ -5,7 +5,7 @@ shorttitle: "GIZIPP v.0.1"
 description:  "Selamat tinggal GIZIPP generasi lama menjadi generasi baru sebutlah ia yang selalu tanah air beta."
 category: gibipp
 tags: [GIZIPP, Iseng]
-
+last_modified_at: 2020-05-09
 ---
 
 Iya!
@@ -20,4 +20,4 @@ Selamat menikmati.
 ![gizipp selalu tanah air beta](/assets/post/gizipp-selalu-tanah-air-beta-fix.png)
 
 {: .pull-center .image}
-*---[GIZIPP](http://gizipp.com) selalu tanah air beta, karena kayaknya bakal beta melulu!*
+*---[GIZIPP](https://gizipp.com) selalu tanah air beta, karena kayaknya bakal beta melulu!*

@@ -11,19 +11,19 @@ Beberapa waktu yang lalu diriku iseng membuat *crawler* sederhana dan sedikit su
 
 ## Twitter
 
->http://cdn.api.twitter.com/1/urls/count.json?url=http://stylehatch.co
+>https://cdn.api.twitter.com/1/urls/count.json?url=https://stylehatch.co
 
 ## Facebook
 
->http://graph.facebook.com/?id=http://stylehatch.co
+>https://graph.facebook.com/?id=https://stylehatch.co
 
 ## Pinterest
 
-    receiveCount({"url":"http://google.com","count":11278})
+    receiveCount({"url":"https://google.com","count":11278})
 
 ## LinkedIn
 
->https://www.linkedin.com/countserv/count/share?url=http://stylehatch.co&format=json
+>https://www.linkedin.com/countserv/count/share?url=https://stylehatch.co&format=json
 
 ## Google Plus
 
@@ -35,7 +35,7 @@ Beberapa waktu yang lalu diriku iseng membuat *crawler* sederhana dan sedikit su
     require 'open-uri'
     require 'nokogiri'
 
-    @url = "http://yoursite.com"
+    @url = "https://yoursite.com"
 
     googleplus_data = Nokogiri::HTML(open("https://plusone.google.com/_/+1/fastbutton?url=#{@url}"))
     self.gplus_count = googleplus_data.css('div#aggregateCount')[0].text.to_i

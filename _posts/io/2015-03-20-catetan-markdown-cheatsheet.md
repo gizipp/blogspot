@@ -40,8 +40,8 @@ tags: [markdown]
     Some text to show that the reference links can follow later.
 
     [arbitrary case-insensitive reference text]: https://www.mozilla.org
-    [1]: http://slashdot.org
-    [link text itself]: http://www.reddit.com
+    [1]: https://slashdot.org
+    [link text itself]: https://www.reddit.com
 
 ## Images
 

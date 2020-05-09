@@ -64,6 +64,6 @@ masuk ke folder
 
     rails s /rails server
 
-copy paste url yang ada di  Rails 4.1.8 application starting in development on http://0.0.0.0:3000 => Baris ke dua
+copy paste url yang ada di  Rails 4.1.8 application starting in development on https://0.0.0.0:3000 => Baris ke dua
 
-http://guides.railsgirls.com/install/#setup-for-linux
+https://guides.railsgirls.com/install/#setup-for-linux

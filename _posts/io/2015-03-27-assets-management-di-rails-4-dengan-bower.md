@@ -31,7 +31,7 @@ Di folder roots rails bikin file ```.bowerrc``` (file configurasi bower sefolder
       ],
       description: 'Tutorial about Bower and Rails',
       license: 'MIT',
-      homepage: 'http://mycoolhomepage.com',
+      homepage: 'https://mycoolhomepage.com',
       ignore: [
         '**/.*',
         'node_modules',

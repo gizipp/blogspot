@@ -14,9 +14,9 @@ Langkah-langkahnya adalah sesuai judulnya, yaitu
 
 ## Install ElasticSearch
 
-Untuk install ES [disini](https:/go.gizipp.com/http://www.elastic.co/guide/en/elasticsearch/guide/current/_installing_elasticsearch.html) yang intinya perintah beginian saja. Versinya jangan lupa diganti.
+Untuk install ES [disini](https:/go.gizipp.com/https://www.elastic.co/guide/en/elasticsearch/guide/current/_installing_elasticsearch.html) yang intinya perintah beginian saja. Versinya jangan lupa diganti.
 
-    curl -L -O http://download.elasticsearch.org/PATH/TO/VERSION.zip
+    curl -L -O https://download.elasticsearch.org/PATH/TO/VERSION.zip
     unzip elasticsearch-$VERSION.zip
     cd  elasticsearch-$VERSION
 
@@ -49,4 +49,4 @@ end
 
 ## Tautan
 
-- https://go.gizipp.com/http://www.elastic.co/guide/en/elasticsearch/guide/current/_installing_elasticsearch.html
+- https://go.gizipp.com/https://www.elastic.co/guide/en/elasticsearch/guide/current/_installing_elasticsearch.html

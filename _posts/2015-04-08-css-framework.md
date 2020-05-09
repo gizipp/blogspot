@@ -4,11 +4,12 @@ title: "Daftar CSS Framework"
 shorttitle: "Daftar CSS Framework"
 description: "Daftar beberapa CSS Framework baru, lama atau populer baru-baru ini."
 tags: [web, css]
+last_modified_at: 2020-05-09
 ---
 
 # Semantic UI
 
-http://semantic-ui.com/
+https://semantic-ui.com/
 
 # UIkit
 
@@ -16,16 +17,16 @@ getuikit.com
 
 # Twitter Bootstrap
 
-http://getbootstrap.com/
+https://getbootstrap.com/
 
 # Gumby Framework
-http://gumbyframework.com/
+https://gumbyframework.com/
 
 # Imperavi
-http://imperavi.com/kube/
+https://imperavi.com/kube/
 
 # PureCSS
-http://purecss.io/
+https://purecss.io/
 
 # Bulma
 https://bulma.io/
