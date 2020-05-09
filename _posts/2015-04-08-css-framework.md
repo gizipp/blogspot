@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Daftar CSS Framework"
-shorttitle: "Daftar CSS Framework"
-desc: "Daftar beberapa CSS Framework baru, lama atau populer baru-baru ini."
-tags: [web, css]
+title: Daftar CSS Framework
+shorttitle: Daftar CSS Framework
+desc: Daftar beberapa CSS Framework baru, lama atau populer baru-baru ini.
+tags:
+  - web
+  - css
+  - front-end
 ---
 
 # Semantic UI
