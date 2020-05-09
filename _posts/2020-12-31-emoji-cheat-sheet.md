@@ -19,3 +19,4 @@ Daftar emoji populer dan sering saya gunakan berserta kodenya. Sebuah emoji chea
 | :bulb:     | `:bulb:`   |
 | :smirk:    | `:smirk:`  |
 | :fire:     | `:fire:`   | 
+| :rocket:   | `:rocket:` |
