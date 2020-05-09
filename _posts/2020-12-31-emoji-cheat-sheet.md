@@ -20,3 +20,5 @@ Daftar emoji populer dan sering saya gunakan berserta kodenya. Sebuah emoji chea
 | :smirk:    | `:smirk:`  |
 | :fire:     | `:fire:`   | 
 | :rocket:   | `:rocket:` |
+| :white_check_mark: | `:white_check_mark:` |
+| :bomb:     | `:bomb` |
