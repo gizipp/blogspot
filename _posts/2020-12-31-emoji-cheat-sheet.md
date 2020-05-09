@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Emoji Cheat Sheet
-desc: Daftar emoji populer dan sering saya gunakan berserta kodenya. Sebuah
-  contekan emoji aka cheat sheet.
+desc: Daftar emoji populer dan sering saya gunakan berserta kodenya.
 category: null
 tags:
   - emoji
