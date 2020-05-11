@@ -41,7 +41,7 @@ h2 {
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 18px;
 
   @media screen and (max-width: $break-small) {
     font-size: 16px;
@@ -160,6 +160,9 @@ article {
   code {
     font-family: $font-family;
     font-size: 12px;
+    background: #eef;
+    padding: 4px 8px;
+    border-radius: 4px;
   }
   blockquote {
     border-left: solid 1px $scheme-color;
@@ -344,4 +347,8 @@ footer {
   a {
     color: orangered;
   }
+}
+
+.emoji {
+  padding: 0;
 }

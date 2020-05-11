@@ -8,7 +8,7 @@ tags:
   - emoji
   - cheatsheet
   - contekan
-last_modified_at: 2020-05-09
+last_modified_at: 2020-05-11
 ---
 Daftar emoji populer dan sering saya gunakan berserta kodenya. Sebuah emoji cheatsheet alias contekan. :smirk:
 

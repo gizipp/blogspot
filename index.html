@@ -54,7 +54,7 @@ layout: default
     <h2>
       <a href="/log">/log</a>
     </h2>
-    {% for post in site.categories.log limit:15 %}
+    {% for post in site.categories.log limit:3 %}
       <h3 class="home-list">
         <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
       </h3>

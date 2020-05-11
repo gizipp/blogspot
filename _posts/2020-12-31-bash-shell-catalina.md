@@ -3,8 +3,11 @@ layout: post
 title: Bash shell catalina
 description: Description
 category:
-tags: [sharing, opini, buku]
-last_modified_at: 2020-05-09
+tags:
+  - bash
+  - shell
+  - catalina
+last_modified_at: 2020-05-11
 ---
 
 Semenjak macOS Catalina, shell bawaan di masOS adalah zsh. Yay! Kebetulan saya sendiri lebih suka zsh. Namun adakalanya saya tetap memerlukan bash. Untungnya sebenarnya Apple tidak benar-benar menghapus bash di Catalina. Cukup mengetikkan `bash` di terminal, kita sudah bisa menggunakan bash.
