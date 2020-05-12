@@ -1,42 +1,51 @@
 ---
 layout: post
 title: Perbedaan string kutip satu dan kutip dua di Ruby
-description: Perbedaan string literal kutip satu 'string' dan kutip dua "string" di Ruby
-tags: Ruby
+description: "Perbedaan string literal kutip satu 'string' dan kutip dua \"string\" di Ruby"
+tags: 
+  - ruby
+  - string
+  - pemula
 ---
 
-Saat pertama-tama awal ngoding, saya bertanya-tanya bertanya-tanya, kenapa saat mendeklarasikan string kadang menggunakan `"my string"` atau `'my string'`
+Saat pertama-tama awal ngoding, saya sering bertanya-tanya bertanya-tanya. 
 
-Awalnya, saya kira ini masalah preferensi sintaks saja.
+Kenapa saat mendeklarasikan *string* di Ruby kadang menggunakan petik satu `"my string"` atau petik dua `'my string'` ya?
 
-Untuk mempermudah
+Dan ini juga adakalanya ini berlaku di bahasa pemograman lainnya.
+
+Awalnya, saya kira ini masalah preferensi sintaks atau mood programmer saja. Ternyata ada tujuan khusus.
 
 
-## Perbedaan string literal kutip satu dan kutip dua di Ruby
+## Apa perbedaan string kutip satu dan kutip dua di Ruby?
 
-Perbedaan utama antara keduanya adalah string literal dengan petik dua mendukung interpolasi string dan escape karakter yang lebih lengkap.
+Perbedaan utama antara keduanya adalah string dengan petik dua mendukung interpolasi string dan escape yang lebih lengkap.
 
 Bingung?
 
-Show me the code saja ya.
+*Show me the code* saja ya.
 
-## Single-quoted strings aka Petik Satu
+### Petik Satu aka Single-quoted strings tidak mendukukung interpolasi
 
 ```ruby
-# Single-quoted string tidak mendukung interpolasi
-puts 'Now is #{Time.now}'
-# Now is #{Time.now}
+# String dengan petik satu tidak mendukung interpolasi
+puts 'Waktu saat ini #{Time.now}'
+# Waktu saat ini #{Time.now}
 
-# Double-quoted strings mendukubng interpolasi
-puts "Now is #{Time.now}"
-# Now is 2016-07-21 12:43:04 +0200
+# String dengan petik dua mendukung interpolasi
+puts "Waktu saat ini #{Time.now}"
+# Waktu saat ini 2016-07-21 12:43:04 +0200
 ```
 
-Pada Single-quoted string Time.now akan dicetak Time.now sebagai string biasa.
+Pada string petik satu, Time.now akan dicetak Time.now sebuah string biasa. 
 
-## Double-quoted strings aka Petik Dua
+Berbeda dengan string petik dua, yang akan benar-benar mencetak waktu saat ini sebagai string, misal : 2016-07-21 12:43:04 +0200, inilah yang dimaksud string interpolation.
 
-Hal menarik lainnya, adalah dukungan escape characters. Malah baru tahu sekarang. Hahaha.
+### Petik Dua aka Double-quoted strings juga mendukung  escape characters
+
+Hal menarik lainnya, adalah mendukung escape characters.
+
+Maksudnya? Lihat contoh berikut
 
 ```ruby
 puts 'Hello\nWorld'
@@ -47,16 +56,19 @@ puts "Hello\nWorld"
 # World
 ```
 
-Escape characters semacam `\n` akan dicetak sebagai baris baru alias new line, bukan string `\n`.
+Terlihat escape characters semacam `\n` akan dicetak sebagai baris baru alias *new line*, bukan string `\n`.
 
-## Best practice
+## Kesimpulan
 
-Jika perlu string interpolation dan escape sequences, gunakan petik dua.
+Praktek string literal ini juga ada di bahasa pemrograman lain, baik di PHP, JavaScript dan lain-lain, walaupun tidak 100% sama.
 
-Praktek string literal ini juga ada di bahasa pemrograman lain, baik di PHP, JavaScript dan lain-lain.
+Di Ruby, jika perlu *string interpolation* dan *escape sequences*, gunakan petik dua. Selain itu bebas mau petik satu atau petik dua.
 
+Sesederhana itu.
 
-## References
+Bagaimana pemirsa, mudah bukan? Sajikan selagi hangat.
+
+## Referensi
 
 - [Beda String Petik Satu dan Dua di PHP](https://go.gizipp.com/https://kursuswebprogramming.com/perbedaan-string-petik-satu-dan-dua/)
 - [Difference Between Single-Quoted and Double-Quoted](https://go.gizipp.com/https://riptutorial.com/ruby/example/2819/difference-between-single-quoted-and-double-quoted-string-literals)
