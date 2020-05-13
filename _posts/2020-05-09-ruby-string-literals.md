@@ -10,7 +10,7 @@ tags:
   - pemula
 last_modified_at: 2020-05-12
 ---
-Saat pertama-tama awal ngoding, saya sering bertanya-tanya bertanya-tanya. 
+Saat pertama-tama awal ngoding, saya sering bertanya-tanya bertanya-tanya.
 
 Kenapa saat mendeklarasikan *string* di Ruby kadang menggunakan petik satu `"my string"` atau petik dua `'my string'` ya?
 
@@ -38,7 +38,7 @@ puts "Waktu saat ini #{Time.now}"
 # Waktu saat ini 2016-07-21 12:43:04 +0200
 ```
 
-Pada string petik satu, Time.now akan dicetak Time.now sebuah *string* biasa. 
+Pada string petik satu, Time.now akan dicetak Time.now sebuah *string* biasa.
 
 Berbeda dengan *string* petik dua, yang akan benar-benar mencetak variabel waktu saat ini sebagai *string*, misal : 2016-07-21 12:43:04 +0200
 
