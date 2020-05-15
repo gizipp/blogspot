@@ -1,14 +1,18 @@
 ---
 layout: post
-title: "Daftar Film Cha Tae Hyun Lama + Jadul hingga Terbaru"
+title: "Daftar Film Cha Tae Hyun"
 shorttitle: "Daftar Film Cha Tae Hyun"
-description: "Seputar pemikiran setelah daftar dilm Cha Tae Hyun Lama + Jadul hingga Terbaru"
+description: "Seputar pemikiran setelah melihat film Cha Tae Hyun Lama"
 category: junkies
 tags: [sharing, opini, film]
+published: false
 ---
 
-Berikut ini daftar film Cha Tae Hyun dari lawas banget dan terbaru yang pernah aku tonton sama yang belum aku tonton. Diantara banyak aktor korea, CTH adalah aktor yang paling saya suka. Aktingnya selalu total! Pun wajah bloonnya mumpuni banget buat main di film-film kocak. Saya sendiri sempat ngelist daftar film korea yang pernah saya tonton di sini. Nah ini mau ngelist film-filmnya sih CTH baik sudah ditonton maupun belum di tonton, terbaru maupun lama, mana yang rekomended ataupun biasa-biasa. Sebenarnya list ini bisa dengan mudah kamu buka di wikipedia. Tapi tak apa, kan sambil di kasih deskripsi-deskripsi gitu! hahaha.. Enjoy!
+Berikut ini daftar film Cha Tae Hyun dari lawas banget dan terbaru yang pernah aku tonton sama yang belum aku tonton.
 
+Diantara banyak aktor korea, CTH adalah aktor yang paling saya suka. Aktingnya selalu total. Pun wajah bloonnya mumpuni banget buat main di film-film kocak.
+
+Nah ini mau ngelist film-filmnya sih CTH menurut saya.
 
 ## Hallelujah (1997)
 

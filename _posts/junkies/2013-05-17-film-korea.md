@@ -5,6 +5,7 @@ shorttitle: "Film Korea"
 description: "Sekedar daftar film korean (kmovies) yang pernah diriku tonton, dari yang jadul-jadul sampai yang terbaru baru-baru saja."
 category: junkies
 tags: [sharing, opini, korean]
+published: false
 ---
 
 Berikut ini adalah sekedar daftar film korea jadul dari lawas banget dan terbaru atau baru-baru saja pernah aku tonton.

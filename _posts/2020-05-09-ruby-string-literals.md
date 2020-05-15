@@ -2,6 +2,7 @@
 layout: post
 title: Perbedaan string kutip satu dan kutip dua di Ruby
 description: Perbedaan string literal kutip satu 'string' dan kutip dua "string" di Ruby
+shorttitle: Ruby String Literal
 desc: Memahami perbedaan utama string kutip satu (Single-quotes strings) dengan
   string kutip dua (Double-quoted strings) di bahasa pemograman Ruby.
 tags:

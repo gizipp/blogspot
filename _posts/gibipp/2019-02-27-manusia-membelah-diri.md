@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Manusia Yang Dibekali Fitur Mutakhir Membelah Diri
-shorttitle: Manusia Yang Dibekali Fitur Mutakhir Membelah Diri
+shorttitle: Manusia Membelah Diri
 description: Manusia Yang Dibekali Fitur Mutakhir Membelah Diri
 category: gibipp
 tags:
