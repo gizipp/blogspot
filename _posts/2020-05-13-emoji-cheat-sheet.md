@@ -8,7 +8,7 @@ tags:
   - emoji
   - cheatsheet
   - contekan
-last_modified_at: 2020-05-11
+last_modified_at: 2020-05-20
 ---
 Daftar emoji populer dan sering saya gunakan berserta kodenya. Sebuah emoji cheatsheet alias contekan. :smirk:
 
@@ -23,3 +23,5 @@ Daftar emoji populer dan sering saya gunakan berserta kodenya. Sebuah emoji chea
 | :rocket:           | `:rocket:`           |
 | :white_check_mark: | `:white_check_mark:` |
 | :bomb:             | `:bomb`              |
+| :sweat:            | `:sweat`             |
+| :cold_sweat:       | `:cold_sweat`        |

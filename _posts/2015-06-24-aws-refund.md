@@ -2,24 +2,28 @@
 layout: post
 title: "Pengalaman Refund Tagihan Amazon Web Services (AWS)"
 shorttitle: "Pengalaman Refund AWS"
-category: io
+category:
 description: "Sharing pengalaman open case dan refund tagihan amazon web service free usage tier yang ngagetin membludak."
-tags: [sharing, ngoprek, aws]
+tags:
+  - sharing
+  - ngoprek
+  - aws
+last_modified_at: 2020-05-20
 ---
 
-Beberapa waktu kemarin, diriku tiba-tiba tertarik untuk mencoba-coba [Amazon Web Services (AWS)](https://aws.amazon.com/free/){:target="_blank"}.
+Beberapa waktu kemarin, saya tiba-tiba tertarik untuk mencoba [Amazon Web Services (AWS)](https://aws.amazon.com/free/).
 
 <amp-img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/640px-AmazonWebservices_Logo.svg.png" width="640" height="241" layout="responsive" alt="Amazon Web Service Logo"></amp-img>
 
+***
+
 ## Apa itu amazon web services?
 
-Amazon Web Service atau lebih sering disebut AWS adalah layanan-layanan dan infrastruktur *cluod coumputing* (red: komputasi awan) yang dimana mereka saling terintegrasi dan kemudahan kostumisasi.
-
-
+Amazon Web Service atau lebih sering disebut AWS adalah layanan-layanan dan infrastruktur *cloud coumputing* (red: komputasi awan) yang dimana mereka saling terintegrasi dan kemudahan kostumisasi.
 
 Ya gitu deh.
 
-Baca aja di [sini pengenalan AWS](https://go.gizipp.com/https://www.cloudindonesia.or.id/pengenalan-amazon-web-services.html){:target="_blank"}.
+Baca aja di [sini pengenalan AWS](https://go.gizipp.com/https://www.cloudindonesia.or.id/pengenalan-amazon-web-services.html)
 
 Nah, apalagi dengan adanya *free usage tier*, tanpa ragu-ragu diriku langsung *apply credit card* dan bersegera mengaktifkan promo gratisan satu tahun ini.
 
@@ -49,9 +53,7 @@ Lho, katanya gratis?
 
 Diriku cuma bisa melongo ketika datang tagihan yang tiba-tiba 72,93 dollar di *bills* AWS dan sekitar 900ribuan di tagihan kartu kredit.
 
-Fak!
-
-Iya, hampir sejuta, bulat!
+Iya, hampir sejuta, bulat! :cold_sweat:
 
 Usut-usut punya usut, ini adalah kesalahanku yang <del>tidak</del> sengaja tidak membaca batasan penggunaan ini. Ialah gratis dalam waktu tertentu dan batas penggunaan tertentu.
 
@@ -61,9 +63,9 @@ Batas penggunaan inilah yang kurang aku pahami dan sengaja tidak aku pahami di a
 - 5 Gb Amazon S3
 - 50 Data Transfer Amazon CloudFront
 
-Dan sebagainya silahkan cek di [https://aws.amazon.com/free/](https://aws.amazon.com/free/){:target="_blank"} semua produk (ternyata!!) dijelaskan di situ.
+Dan sebagainya silahkan cek di [https://aws.amazon.com/free/](https://aws.amazon.com/free/) semua produk (ternyata!!) dijelaskan di situ.
 
-Namun karena pada dasarnya aku terlalu khilaf serta keasikan coba-coba, ya mau gimana lagi. Tagihan sudah menjadi bubur. :D
+Namun karena pada dasarnya aku terlalu khilaf serta keasikan coba-coba, ya mau gimana lagi. Tagihan sudah menjadi bubur. :sweat:
 
 ***
 
@@ -151,6 +153,4 @@ Jika dirimu merasakan kurang *fair* atas sesuatu yang terjadi padamu, (1) coba k
 
 Karena sesungguhnya, tak akan pernah ada yang berubah nasib dan dirimu, jikalau tanpa sedikit upaya dari dirimu sendiri untuk mengubahnya.
 
-Fak!
-
-Kenapa tiba-tiba jadi bijak begini?
+Sebentar, kenapa tiba-tiba jadi bijak begini?
