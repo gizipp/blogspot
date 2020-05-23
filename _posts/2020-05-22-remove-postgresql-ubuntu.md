@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Menghapus PostgreSQL di Ubuntu 18.04.1
-shorttitle: Menghapus PostgresSQL
+shorttitle: Menghapus PostgreSQL
 description: Menghapus PostgreSQL di Ubuntu 18.04.1
 category:
 tags:

@@ -2,8 +2,13 @@
 layout: post
 title: "GIXIPP : Deprecated!"
 description: "Suatu hari, aku merelakan satu demi satu benih dan membiarkannya untuk mengakar. Semoga."
-category: gibipp
-tags: [gixipp, fiksi]
+category: gixipp
+tags:
+  - gixipp
+  - fiksi
+  - ngarang
+last_modified_at: 2020-05-23
+permalink: /:title
 ---
 
 Oh tidak!
@@ -19,9 +24,9 @@ Mereka pasti kecewa, setelah sekian lama mereka akhirnya meresa disumberdayakan 
 - GIXIPP #3 : Rem Roda Kehidupan
 - GIXIPP #4 : Empat Jemari Kesepian
 - GIXIPP #5 : Mendewasakan Tulisan Blogger
-- GIXIPP #6 : Sistem Informasi Mbokdhe!
+- GIXIPP #6 : Sistem Informasi Mbokdhe
 - GIXIPP #7 : Selamatkan Air Kami
-- GIXIPP #8: Pesan Penuh Kamu
+- GIXIPP #8 : Pesan Penuh Kamu
 - GIXIPP #9 : Jarak Tempuh Kita
 - GIXIPP #10 : Sistem Penyesat Global
 - GIXIPP #11 : Talenan Kita Beda

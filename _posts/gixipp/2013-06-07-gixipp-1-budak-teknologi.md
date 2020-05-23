@@ -1,11 +1,16 @@
 ---
 layout: post
 title: 'GIXIPP #1 : Seonggok Budak Teknologi'
-category: gibipp
 description:
-tags: [gixipp, fiksi, ngasal]
-last_modified_at: 2020-05-09
+category: gixipp
+tags:
+  - gixipp
+  - fiksi
+  - ngarang
+last_modified_at: 2020-05-23
+permalink: /:title
 ---
+
 Seonggok budak teknologi itu lupa bahwa asal muasal hidup itu berasal dari kehidupan. Bukan dari benda mati.
 
 Aku ini manusia biasa. Butuh makan. Butuh bernapas. Butuh mandi. Butuh uang. Butuh cinta. Serta merta butuh hidup agar disebut makhluk hidup.

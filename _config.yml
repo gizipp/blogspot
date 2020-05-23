@@ -24,7 +24,7 @@ analytics_id: UA-29500251-14
 
 exclude: [.scss, README.md, node_modules, gruntfile.js, package.json, draft]
 
-permalink:   /:categories/:title
+permalink: /:title
 
 markdown: kramdown
 

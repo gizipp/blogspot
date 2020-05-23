@@ -2,12 +2,14 @@
 layout: post
 title: "GIXIPP #16 : Kepekaan Jiwa Hidup"
 description: "Suatu hari, GIXIPP bertemu jiwa hidup yang seharusnya peka."
-category: gibipp
-tags: [gixipp, fiksi, ngarang]
-last_modified_at: 2020-05-09
+category: gixipp
+tags:
+  - gixipp
+  - fiksi
+  - ngarang
+last_modified_at: 2020-05-23
+permalink: /:title
 ---
-
-![gixipp 16](https://gizipp.com/wp-content/uploads/16-printer-gizipp-gixipp.png)
 
 "Sudah... sudah bisa...." Ujarku menyampaikan kondisi terbaru berupa kabar bahagia itu. Aku sendiri cukup kaget dengan kejeniusanku. Atau Google, tepatnya!
 

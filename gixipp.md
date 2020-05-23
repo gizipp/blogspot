@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Log
-permalink: /log/
+title: GIXIPP
+permalink: /gixipp/
 ---
 <main style="font-size: .8em;">
-  {% for post in site.categories.log %}
+  {% for post in site.categories.gixipp %}
     <h2>
       <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
     </h2>

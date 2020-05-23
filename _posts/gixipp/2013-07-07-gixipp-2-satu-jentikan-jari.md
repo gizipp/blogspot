@@ -2,9 +2,13 @@
 layout: post
 title: 'GIXIPP #2 : Satu Jentikan Jari'
 description:
-category: gibipp
-tags: [gixipp, fiksi, ngasal]
-last_modified_at: 2020-05-09
+category: gixipp
+tags:
+  - gixipp
+  - fiksi
+  - ngarang
+last_modified_at: 2020-05-23
+permalink: /:title
 ---
 Sebut saja kalimat ini adalah permulaan celotehan. Lalu membuatku merancau pagi ini. Yang tentunya diawali celotehan orang lainnya. Dialah Si Mbokdhe Wanti.
 

@@ -1,9 +1,13 @@
 ---
 layout: post
 title: 'GIXIPP #15 : Kesempurnaan Setengah Setengah'
-shorttitle: 'Kesempurnaan Setengah Setengah'
-category: gibipp
-tags: [gixipp, fiksi, ngarang]
+category: gixipp
+tags:
+  - gixipp
+  - fiksi
+  - ngarang
+last_modified_at: 2020-05-23
+permalink: /:title
 ---
 
 "Prof... Jadi gimana Prof? Apakah semuanya berjalan lancar?"

@@ -5,17 +5,10 @@ desc: "Sebuah arsip null, ialah kumpulan tempat mengaduh, menuduh, mengeluh atau
 permalink: /null/
 ---
 
-<section class="site-archive">
-  <div class="home-group">
-    {% for post in site.categories.null %}
-      <div class="archive-list">
-        <div class="archive-title">
-          <a href="{{ post.url }}">
-          {% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}
-          </a>
-        </div>
-        <div class="archive-date"><a href="/{{ post.category }}">\{{ post.category }} </a> {{ post.date | date: "%d-%m-%Y" }}</div>
-      </div>
-    {% endfor %}
-  </div>
-</section>
+<main style="font-size: .8em;">
+  {% for post in site.categories.null %}
+    <h2>
+      <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
+    </h2>
+  {% endfor %}
+</main>
