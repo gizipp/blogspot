@@ -9,7 +9,7 @@ html {
   box-sizing: border-box;
   font-size: 16px;
 }
-s
+
 *, *:before, *:after {
   box-sizing: inherit;
 }
@@ -36,6 +36,7 @@ img {
 $break-small: 320px;
 $break-medium: 480px;
 $break-large: 890px;
+
 $max-width: 700px;
 
 $font-size: 22px;
@@ -50,7 +51,21 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  letter-spacing: .03em;
+  font-weight: bold;
   margin: 8px 0;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.2em;
 }
 
 body > header {
@@ -58,6 +73,7 @@ body > header {
   padding: 0 1em;
 
   div {
+    font-weight: bold;
     max-width: $max-width;
     height: 60px;
     margin: auto;
@@ -94,7 +110,17 @@ main {
     }
 
     ol, ul {
-      list-style: disc;
+      list-style-type: disc;
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      padding-inline-start: 40px;
+    }
+
+    a {
+      border-bottom: 1px solid royalblue;
+      color: royalblue;
     }
 
     pre {
@@ -145,8 +171,8 @@ hr {
   display: block;
   width: 15%;
   margin: 30px auto;
-  border: 0 solid ghostwhite;
-  border-top: 1px solid ghostwhite;
+  border: 0 solid #ddd;
+  border-top: 1px solid #ddd;
 }
 
 pre {
