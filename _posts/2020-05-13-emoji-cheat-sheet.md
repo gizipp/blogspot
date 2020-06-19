@@ -3,14 +3,13 @@ layout: post
 title: Emoji Cheat Sheet
 description: Daftar emoji populer dan sering saya gunakan berserta kodenya.
 category:
-tags: [emoji, cheatsheet, buku]
 tags:
   - emoji
   - cheatsheet
   - contekan
-last_modified_at: 2020-05-20
+last_modified_at: 2020-06-16
 ---
-Daftar emoji populer dan sering saya gunakan berserta kodenya. Sebuah emoji cheatsheet alias contekan. :smirk:
+Daftar emoji populer dan sering saya gunakan berserta kodenya.
 
 | emoji              | code                 |
 |--------------------|----------------------|
@@ -25,3 +24,10 @@ Daftar emoji populer dan sering saya gunakan berserta kodenya. Sebuah emoji chea
 | :bomb:             | `:bomb`              |
 | :sweat:            | `:sweat`             |
 | :cold_sweat:       | `:cold_sweat`        |
+| :laughing:         | `:laughing`          |
+| :v:                | `:v`                 |
+
+
+Sebuah emoji cheatsheet alias contekan. :smirk:
+
+Have fun!

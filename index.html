@@ -2,7 +2,8 @@
 layout: default
 ---
 <main style="font-size: 1em;">
-  {% for post in site.posts %}
+  {% assign sorted_post = site.posts | sort: "last_modified_at" | reverse %}
+  {% for post in sorted_post %}
     <h2>
       {% if post.category != "log" and post.category != "gixipp" %}
         <a href="{{ post.url }}">{% if post.shorttitle %}{{post.shorttitle}}{% else %}{{post.title}}{% endif %}</a>
